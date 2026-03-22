@@ -23316,7 +23316,7 @@ asn,handle,description,country-code
 25886,HPINC,HP Inc.,US
 25887,SLIAC,St Louis Internet2 Access Consortium LLC,US
 25888,HPINC,HP Inc.,US
-25889,BXS-NET-AS,BancorpSouth Inc.,US
+25889,BXS-NET-AS,Huntington Bancshares Inc.,US
 25890,AS-WAN2LAN,WAN2LAN INC.,US
 25891,SVA-ANS,School Of Visual Arts Inc.,US
 25892,VERTEX,VTX Telecom,US
@@ -48817,7 +48817,7 @@ asn,handle,description,country-code
 54988,CMAS1,cloudmain.com,US
 54989,DUNCAN-TV,DUNCAN TELECOMMUNICATIONS LLC,US
 54990,AS-1337,1337 Services LLC,KN
-54991,CADENCE-BANK-BHM,Cadence Bank N.A.,US
+54991,CADENCE-BANK-BHM,Huntington Bancshares Inc.,US
 54992,NEXTFINANCIAL,Next Financial,US
 54993,OPSRP-IP-1,OpsRamp LLC,US
 54994,ML-1432-54994,Meteverse Limited,CA
@@ -85089,7 +85089,7 @@ asn,handle,description,country-code
 202073,ABS-ACLOUD-CLIENTS1,Itego a.s.,CZ
 202074,LINKTELCO-ASN,Link Telecomunicazioni SRL,IT
 202075,MOBITION-AS,Mobition BV,NL
-202076,OPTUATELECOM,Optua Telecommunications Limited,GB
+202076,SCOTTISHFIBRE,Optua Telecommunications Limited,GB
 202077,GENEON,Geneon GmbH,DE
 202078,MIXAS,Mix LLC,RU
 202079,NIIME-AS,MERI JSC,RU
@@ -86745,7 +86745,7 @@ asn,handle,description,country-code
 203750,CIT-ASN-RMS,LLC Information Technology Center,RU
 203751,WIFIMAX,GRUPO WIFIMAX S.L.,ES
 203752,E-CAPS,E-CAPS D.O.O,RS
-203753,FIRSTUNIT,Individual Entrepreneur Mchedlidze Georgiy Vitalievich,RU
+203753,CLOUDPROTECT-AS,Individual Entrepreneur Mchedlidze Georgiy Vitalievich,RU
 203754,ASPHONEPULSE,Phone Pulse Ltd,IE
 203755,AS-CDNITGLOBALCOM,ITGLOBAL.COM NL B.V.,NL
 203756,TECHALND,Techland Sp. z o.o.,PL
@@ -90105,7 +90105,7 @@ asn,handle,description,country-code
 207157,CAMESPA-AS,CAME S.P.A.,IT
 207158,WORLDCDN,Clouvider Limited,GB
 207159,HARTUM-TV-SRL,HARTUM TV SRL,MD
-207160,EK401,Factory Campus Verwaltungs-GmbH,DE
+207160,FACTORY-CAMPUS,Factory Campus Verwaltungs-GmbH,DE
 207161,US-PHX,Nagravision Sarl,CH
 207162,L3CLIMITED-AS,L3C Limited,GB
 207163,SKYCD-ES-AS,Sky UK Limited,GB
@@ -99133,7 +99133,7 @@ asn,handle,description,country-code
 216422,PRATIK-ISLEM,Pratik Islem Odeme ve Elektronik Para A.S.,TR
 216423,EVILINK-AS,Evilink Ltd.,RU
 216424,ASYNC-SOFTWARE,ASYNC SOFTWARE LIMITED,GB
-216425,HANARIN-AS,TEFEXIA Co. Ltd.,KR
+216425,TEFEXIA-AS,TEFEXIA Co. Ltd.,KR
 216426,DARATEL,Daratel TIC S.L,ES
 216427,ANDREAS-DUERING-AS,Andreas Duering,DE
 216428,AS-NOCTERNITY,Emmanuel BENOIT,FR
@@ -110416,6 +110416,7 @@ asn,handle,description,country-code
 274862,IP-SISTEMAS-CA,IP SISTEMAS C.A,VE
 274863,CONEXIONES-AEREAS,CONEXIONES AEREAS S.R.L.,AR
 274864,CORPORACION-ILUMYNA-NETWORKS,CORPORACION ILUMYNA NETWORKS C.A,VE
+274865,ALLIANCE-TELECOMS-GROUP,ALLIANCE TELECOMS GROUP S.A.,PA
 275613,QUEIROZ-FREITAS-COMERCIO,QUEIROZ & FREITAS COMERCIO E SERVIÇOS LTDA,BR
 275614,ALTA-AMERICA-LATINA,ALTA - América Latina Telecomunicações Avançadas,BR
 275615,R-ABREU-MACHADO,R de Abreu Machado,BR
@@ -113851,6 +113852,7 @@ asn,handle,description,country-code
 394782,SEAPORT,Commonwealth Flats Development Hotel Corp.,US
 394783,WAFD,Washington Federal,US
 394784,MEEI-AS,Massachusetts Eye and Ear Infirmary,US
+394785,FLUFFHOST,Fluffhost LLC,US
 394786,AVETRIA-NETWORKS,Avetria Wireless,CA
 394787,PANOBIT,Panobit LLC,US
 394788,BYNARIUM,BYNARIUM LLC,US
@@ -114192,6 +114194,7 @@ asn,handle,description,country-code
 395128,ETFO-HO,Elementary Teachers Federation of Ontario,CA
 395129,UNITED-FIBER,United Electric Cooperative,US
 395130,DAY-PITNEY-LLP,Day Pitney LLP,US
+395131,PECO,Pecorae LLC,US
 395132,MWCU,Meriwest Credit Union,US
 395133,MEDQUEST,MedQuest Associates Inc.,US
 395134,CITYOFDAVIS,City of Davis,US
@@ -114524,6 +114527,7 @@ asn,handle,description,country-code
 395466,GLOBALNET,Global Net,US
 395467,K-ECOMMERCE,KeCommerce,CA
 395468,UNLV,University of Nevada Las Vegas,US
+395469,FINDLAY-AUTOMOTIVE,Findlay Management Group,US
 395470,NYM,Nymlyria LLC,US
 395471,DATACCESSPR,Data@ccess Communication Inc.,PR
 395472,HARRIS-COUNTY-PUBLIC-SAFETY-TECHNOLOGY-SERVICES,Harris County Public Safety Technology Services,US
@@ -114832,6 +114836,7 @@ asn,handle,description,country-code
 395778,PBC-QNC-WA,Premera Blue Cross,US
 395779,ARMINTL,ARMSTRONG INTERNATIONAL INC,US
 395780,ZUORA-CORP-SAN-MATEO,Zuora Inc,US
+395781,NGTS-NVG,nVision Global,US
 395782,COHR-AS-FINISAR,Finisar Corp,US
 395783,HYPERTEC-CLOUD,HYPERTEC CLOUD INC.,CA
 395784,MERS-ASN,MERSCORP Holdings Inc.,US

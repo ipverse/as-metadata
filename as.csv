@@ -39680,7 +39680,7 @@ asn,handle,description,country-code
 44951,EFONDS-AS,eFonds AG,DE
 44952,METROTELECOM-AS,PE Tsvetkov Denis Aleksandrovich,UA
 44953,ISICONNEXION,Eurofiber Nederland BV,NL
-44955,DARK,Baker Group Ltd,GB
+44955,DG-TECHNOLOGY,Baker Group Ltd,GB
 44956,OKS-AS,Optical Cable Networks Ltd.,RU
 44957,OPITEL,Fastweb SpA,IT
 44958,AIK-AS,AikBank ad Beograd,RS
@@ -66783,6 +66783,7 @@ asn,handle,description,country-code
 140837,TMSB-AS,Teleperformance Malaysia Sdn Bhd,MY
 140838,MANDARIONLINE-AS-AP,Mandari Online,BD
 140839,LANTECHLIMITED-AS-AP,Lantech Limited,NZ
+140840,LD-AS-AP,L.D Infinity Pvt Ltd,NP
 140841,LING1-AS-AP,Ling Cloud Corporation Limited,HK
 140842,DCA-AS-AP,DCA Networks Pty Ltd,AU
 140843,DHAMRAINETWORK-AS-AP,Dhamrai Network,BD
@@ -93897,7 +93898,7 @@ asn,handle,description,country-code
 210963,VULKANET,LOG S.R.L.S,IT
 210964,TVKAMENICA,TV Kamenica sh.p.k,AL
 210966,DCSOLUTIONS,Data Center Solutions Kft.,HU
-210967,INDASYS,indasys IT Systemhaus AG,DE
+210967,ASN-INDASYS,indasys IT Systemhaus AG,DE
 210968,SINNAD-BAH,SINNAD W.L.L,BH
 210969,TELLISSI,Malek Tellissi,DE
 210970,MOSENTO,mosento LTD,GB

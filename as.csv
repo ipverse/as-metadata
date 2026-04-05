@@ -16720,7 +16720,7 @@ asn,handle,description,country-code
 18437,PITT-OHIO-EXPRESS-AS,Pitt-Ohio Express LLC.,US
 18438,BROWNB,Brown Brothers Harriman & Company,US
 18439,NNVHS,Northern Nevada High Speed LLC,US
-18440,NCCI,National Council on Compensation Insurance Inc.,US
+18440,NCCI-ASN,National Council on Compensation Insurance Inc.,US
 18441,IP-NETWORKED-SERVICES,IP Networked Services Inc.,US
 18442,OPENTEXT-NA-US-VA,Open Text Corporation,CA
 18443,APSC,Alyeska Pipeline Service Company,US
@@ -48979,7 +48979,7 @@ asn,handle,description,country-code
 55150,SYNCBAK,Syncbak Inc.,US
 55151,TMS1025,Technology Marketing Services LLC,US
 55152,IFCJAS-01,The Fellowship,US
-55153,BREMERFINANCIAL,BREMER FINANCIAL SERVICES,US
+55153,BREMER-ASN,Old National Bancorp,US
 55154,MADGEN-01,Madgenius.com,US
 55155,LPS-8,Black Knight IP Holding Company LLC,US
 55156,RLR-EAS,R & L Carriers Inc,US
@@ -96805,7 +96805,7 @@ asn,handle,description,country-code
 213863,SMARTIXPROUTESERVERS,SMARTNET LIMITED,GB
 213864,FAKEOAI,Lai BaoYuan,HK
 213865,NURULLAH-ATES,Nurullah Ates,TR
-213866,GRUPOROJASSILVA,Jose Patricio Rojas Alba,MX
+213866,IMGUARDNETWORKS,Jose Patricio Rojas Alba,MX
 213867,TENERITY-AS,TENERITY LIMITED,GB
 213868,TAKECLOUD,TAKECLOUD SAS,FR
 213869,WINEXT-AS,WiNext Kft.,HU
@@ -96885,7 +96885,7 @@ asn,handle,description,country-code
 213945,AS213945,DATA HOME YAZILIM BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI,TR
 213946,SIGNALNET-AS,Signal NET d.o.o.,MK
 213947,EXEO,EXEO SAS,FR
-213948,VILO,Vincent LOPEZ,FR
+213948,VINCENTLOP-NETWORK,Vincent LOPEZ,FR
 213949,DIABOLOCOM-DE,Diabolocom SAS,FR
 213950,BRONTO,Gufo Sistems S.L.,ES
 213951,HYPERAPP,Globe Cloud LLC,UZ
@@ -112785,7 +112785,7 @@ asn,handle,description,country-code
 393514,NEW-HAMPTON-MUNICIPAL-LIGHT-PLANT-01,New Hampton Municipal Light Plant,US
 393515,AS393515,Unknown AS 393515,XX
 393516,EDMAMERICASASN,EDM Americas,US
-393517,SFDC-TABLEAU,Salesforce Inc.,US
+393517,SF-IT-STAGE,Salesforce Inc.,US
 393518,CLAIMREMEDI-AS,ClaimRemedi Inc.,US
 393519,INTEGRITYME-ASN,Integrity Medicolegal Enterprises LLC,US
 393520,FTSC-HQ,Fulcrum Technology Solutions LLC,US
@@ -116758,7 +116758,7 @@ asn,handle,description,country-code
 397529,PEGASUS-AG,Pegasus Technologies Inc,AG
 397530,SOFTEON,SOFTEON INC,US
 397531,ITS-NETWORK,Iowa Data Centers,US
-397532,CF-MULTI-HOMED-01,Citizens and Farmers Bank,US
+397532,CF-MULTI-HOMED-01,C&F Bank,US
 397533,IMECOM-GROUPINC-01,Alhambra US,US
 397534,IWU-PUBLIC-01,Indiana Wesleyan University (Marion College),US
 397535,WNMU-ASN,Western New Mexico University,US
@@ -121506,6 +121506,13 @@ asn,handle,description,country-code
 402355,VISENTRY-NET,Visentry,US
 402356,AS-GRIDPRISE,Gridprise LLC,US
 402357,BSI-ASN,Bulletproof,CA
+402358,ASN-EEOC,U. S. Equal Employment Opportunity Commission,US
+402359,GOESEL-NET,Goesel.net,US
+402360,BRFLASHV,BRF,US
+402361,PEI-99,Perry Ellis International Inc.,US
+402362,NEW-BALANCE-ATHLETICS,New Balance Athletics Inc.,US
+402363,AEJ-01,KEYSTONE NETWORKS COMMUNICATIONS INC,US
+402364,LCINFRA,Locally Compact Inc.,US
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

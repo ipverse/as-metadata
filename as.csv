@@ -80357,6 +80357,7 @@ asn,handle,description,country-code
 154609,MSRETAIL-AS-AP,MS Retail,IN
 154610,IBCSB-AS-AP,IDA Business Consulting Sdn. Bhd.,MY
 154611,AYONIT-AS-AP,AYON IT,BD
+154612,BENGALCLOUD1-AS-AP,BENGALCLOUD INTERNATIONAL,BD
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
 196610,DECIX-ACADEMY,DE-CIX Management GmbH,DE
@@ -82969,7 +82970,7 @@ asn,handle,description,country-code
 199739,EARTHLINK-DMCC-IQ,Earthlink Telecommunications Equipment Trading & Services DMCC,AE
 199740,KOOPJESERVER-AS,Koopjeserver BV,NL
 199741,TRANSITX,TRANSITX LTD,GB
-199742,AKENAI-AS,Yaroslav Podieiapolskii,PL
+199742,KAVORE-AS,Yaroslav Podieiapolskii,PL
 199743,HPS,SLTN Telecom Professional Services B.V.,NL
 199744,ITESYS-AS,itesys srl,IT
 199745,TERRIBLE,terrible llc,US

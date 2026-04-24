@@ -3551,7 +3551,7 @@ asn,handle,description,country-code
 3767,SOSCORP-AS,SOS Corp.,US
 3768,DIALOG-AS,PROQUEST LLC,US
 3769,HEARST-AS,Hearst Magazines Inc.,US
-3770,FIRSTLIGHT-AS-3770,FirstLight Fiber Inc.,US
+3770,FLASN-3770,FirstLight Networks LLC,US
 3771,SPERRY-AS,Sperry,US
 3772,CETYS-AS,CETYS - Centro de Ensenanza Tecnica Y Superior,US
 3773,ERX-TGE-1,TGE,NZ
@@ -5383,7 +5383,7 @@ asn,handle,description,country-code
 5735,GALT-TECHNO,Galt Technologies,US
 5736,VEL-AS,Velocity Networks Inc.,US
 5737,CENTURYLINK-QC-MOE-BILLINGS-GREAT-FALLS,CenturyLink Communications LLC,US
-5738,SOVER-ASN,FirstLight Fiber Inc.,US
+5738,FLASN-5738,FirstLight Networks LLC,US
 5739,UCSC,University of California Santa Cruz,US
 5740,WORKFORCE,WorkForce Software LLC,US
 5741,EPICOR,Epicor Software Corporation,US
@@ -5951,7 +5951,7 @@ asn,handle,description,country-code
 6308,ALASCOM-MIS,AT&T ALASCOM,US
 6309,GL-936-6309,Gravabit LLC,US
 6310,MAXPERTS-AS,Maxperts Inc.,US
-6311,OXNET-6311,FirstLight Fiber Inc.,US
+6311,FLASN-6311,FirstLight Networks LLC,US
 6312,TRIOTELASN,TrioTel Communications Inc.,US
 6313,PROMETHEUS,Prometheus Information Corp.,US
 6314,CDC-AS,Chattanooga Data Connection Inc.,US
@@ -7652,7 +7652,7 @@ asn,handle,description,country-code
 8117,DRF,Daily Racing Form,US
 8118,MAAZ-AS,Maaznet Directory Services,US
 8119,DTN-AS,DTN LLC,US
-8120,BESTWEB,FirstLight Fiber Inc.,US
+8120,FLASN-8120,FirstLight Networks LLC,US
 8121,LAYER42,TCH Network Services,US
 8122,DQNAS,Duquesne University,US
 8123,POLYBASE,Polybase,US
@@ -9505,7 +9505,7 @@ asn,handle,description,country-code
 10311,TWC-10311-NA,Charter Communications Inc,US
 10312,HEARTPORT,Heartport Inc.,US
 10313,PEQUOT,Pequot Systems Inc.,US
-10314,FIRSTLIGHT-AS-10314,FirstLight Fiber Inc.,US
+10314,FLASN-10314,FirstLight Networks LLC,US
 10315,EZNETWORK,ez network systems,US
 10316,CODERO-AS,Patmos Hosting Inc.,US
 10317,CUCINT,Trilegiant Corporation,US
@@ -9992,7 +9992,7 @@ asn,handle,description,country-code
 10806,AFP-NET,AGENCE FRANCE PRESSE,US
 10807,ERX-HOLE-IN-ONE,Hitachi Business International Ltd.,JP
 10808,THE-GLOBE-AND-MAIL,The Globe and Mail,CA
-10809,NCIA,FirstLight Fiber Inc.,US
+10809,FLASN-10809,FirstLight Networks LLC,US
 10810,HARVESTCOMM01,Harvest Communications Inc.,US
 10811,IENET,Internet Express Network,US
 10812,UTPB-AS-10812,University of Texas System,US
@@ -10689,7 +10689,7 @@ asn,handle,description,country-code
 11521,MODUSLINK,ModusLink Corporation,US
 11522,SUD-WIREDAS,Greater Sudbury Telecommunications Inc.,CA
 11523,AS-HLEEM,H. Lee Moffitt Cancer Center & Research Institute Inc.,US
-11524,SEGN,FirstLight Fiber Inc.,US
+11524,FLASN-11524,FirstLight Networks LLC,US
 11525,HRTC,Hancock Rural Telephone Corp.,US
 11526,COGENT-11526,Cogent Communications LLC,US
 11527,X0R,Xproxies,US
@@ -12322,7 +12322,7 @@ asn,handle,description,country-code
 13533,HJ-NET,Yahoo Holdings Inc.,US
 13534,RALLS-TECH,Ralls Technologies LLC,US
 13535,NING,Ning Interactive Inc.,US
-13536,TVC-AS1,FirstLight Fiber Inc.,US
+13536,FLASN-13536,FirstLight Networks LLC,US
 13537,MEGACOLO,Mega Colocation Inc.,US
 13538,NYIIX-NY,TELEHOUSE International Corp. of America,US
 13539,BASTYR-UNIVERSITY,Bastyr University,US
@@ -13247,7 +13247,7 @@ asn,handle,description,country-code
 14474,AP-ASN-01,AlixPartners LLP,US
 14475,D4-NETW,D4 Networks L.L.C.,US
 14476,HONDACA-AS,HONDA CANADA INC.,CA
-14477,FLTG,FirstLight Fiber Inc.,US
+14477,FLASN-14477,FirstLight Networks LLC,US
 14478,RECURSE-CENTER,Recurse Center,US
 14479,OG-ASN-01,The Oneida Group Inc.,US
 14480,ORANGEBURGCOUNTYBB-SC,County of Orangeburg,US
@@ -13643,7 +13643,7 @@ asn,handle,description,country-code
 14874,PITTQIAO-US,PITTQIAO LLC,US
 14875,NOVATELASN,NovAtel Inc.,CA
 14876,DDNET-1,Dell Inc.,US
-14877,FL-14877,FirstLight Fiber Inc.,US
+14877,FLASN-14877,FirstLight Networks LLC,US
 14878,KWIKOM-PIXIUS,KwiKom Communications,US
 14879,PARIS-AS,PARIS ACCESSORIES INC.,US
 14880,TECHOPS-ASN-5,Live Nation Entertainment Inc.,US
@@ -14078,7 +14078,7 @@ asn,handle,description,country-code
 15317,SERVEREL-AS,Serverel Inc.,US
 15318,MCGILL-AS,McGill University,CA
 15319,CSLNA-NJ-ASN,COSCO Shipping Lines (North America) Inc.,US
-15320,PRIMELINK,FirstLight Fiber Inc.,US
+15320,FLASN-15320,FirstLight Networks LLC,US
 15321,GROUPE-MASKATEL-LP,Groupe Maskatel,CA
 15322,UPWARD-BROADBAND,Upward Broadband LLC,US
 15323,BSD405,Bellevue School District #405,US
@@ -14828,7 +14828,7 @@ asn,handle,description,country-code
 16422,NEWSKIES-NETWORKS,New Skies Satellites Inc.,US
 16423,NETTOGO-BLK,NETTOGO,US
 16424,LBL-ESD,Linn Benton Lincoln Education Service District,US
-16425,SOVER2-ASN,FirstLight Fiber Inc.,US
+16425,FLASN-16425,FirstLight Networks LLC,US
 16426,CITYOFCOLUMBUSOHIO,City of Columbus,US
 16427,MIRAEASSETUS-ASN,Mirae Asset Securities (USA) Inc.,US
 16428,SFS-AS1,Store Financial Services LLC,US
@@ -18483,7 +18483,7 @@ asn,handle,description,country-code
 20222,PLTE,Plant Telephone Company,US
 20223,CBSITE-QTW,CareerBuilder LLC,US
 20224,COLUMBIA-ENERGY-LLC,Columbia Energy L.L.C,US
-20225,TELJET,FirstLight Fiber Inc.,US
+20225,FLASN-20225,FirstLight Networks LLC,US
 20226,ROADWAY-EXPRESS,Roadway Express Inc.,US
 20227,DENIRO-MARKETING-LLC,DENIRO MARKETING LLC.,US
 20228,NTUA,Navajo Tribal Utility Authority,US
@@ -18603,7 +18603,7 @@ asn,handle,description,country-code
 20346,SOC-OF-ACTUARIES1,Society of Actuaries,US
 20347,GFN-US,Nvidia Corporation,US
 20348,OFS-BRANDS,OFS Brands Holdings Inc,US
-20349,CFRDC-MFICORE,Crystal Farms Refrigerated Distribution Company,US
+20349,CFRDC-MFICORE,Crystal Farms Dairy Company,US
 20350,TDS-INTERNET-AS,TDS TELECOM,US
 20351,PARTS123,Connect Marketing Inc.,US
 20352,LHS,Legacy Health,US
@@ -19439,7 +19439,7 @@ asn,handle,description,country-code
 21544,THESYS-1,Thesys Technologies LLC,US
 21545,KCOENET,Kings County Office of Education,US
 21546,TROUTMANSANDERSRICHMOND,Troutman Pepper Locke LLP,US
-21547,OXNET,FirstLight Fiber Inc.,US
+21547,FLASN-21547,FirstLight Networks LLC,US
 21548,MTO,Beanfield Technologies Inc.,CA
 21549,IRON-MOUNTAIN,Iron Mountain Inc,US
 21550,THEWORLD-1,Software Tool & Die The World,US
@@ -24787,7 +24787,7 @@ asn,handle,description,country-code
 27379,SELECT-STAFFING,Select Staffing,US
 27380,NYSS,NYSS,CA
 27381,CASALE-MEDIA,Index Exchange Inc.,CA
-27382,COLOSPACE,FirstLight Fiber Inc.,US
+27382,FLASN-27382,FirstLight Networks LLC,US
 27383,VERADIGM-LLC,Veradigm Inc.,US
 27384,NUTMEG-STATE-FINANCIAL-CREDIT-UNION,Nutmeg State Financial Credit Union,US
 27385,QUALYS,QUALYS Inc.,US
@@ -27170,7 +27170,7 @@ asn,handle,description,country-code
 30262,PTT-AS,High 5 Games LLC,US
 30263,COTNET,Cal-Ore Telephone Co.,US
 30264,COLUMBIAPWS,Columbia Power and Water Systems,US
-30265,AS30265,77997 Newfoundland and Labrador Inc.,CA
+30265,AS30265,AS30265,CA
 30266,RF-SJC-DATACENTER,Rodan & Fields LLC,US
 30267,CITY-WACO-01,City of Waco,US
 30268,CHASKANET,CITY OF CHASKA CHASKANET,US
@@ -29347,7 +29347,7 @@ asn,handle,description,country-code
 32798,HIGHLINE-AS,Highline Services LLC,US
 32799,BOLD-TECHNOLOGIES,Bold Technologies Ltd.,US
 32800,MTELCO,Moundridge Telephone Co.,US
-32801,INDYIX-MONITORING,Indianapolis Internet Exchange Inc.,US
+32801,INDYIX-RS,Indianapolis Internet Exchange Inc.,US
 32802,BROCKTONHOSPITAL-ORG,Brockton Hospital,US
 32803,INFINEON-TECHNOLOGIES-AMERICAS-CORP,Infineon technologies Americas Corp,US
 32804,IWEB-TECHNOLOGIES,Leaseweb Canada Inc.,CA
@@ -29881,7 +29881,7 @@ asn,handle,description,country-code
 33337,TNS-NYCMVP,Transaction Network Services Inc.,US
 33338,TUALITY-HEALTHCARE,TUALITY HEALTHCARE,US
 33339,NEMONT-CELLULAR,Nemont,US
-33340,INDYIX-PUBLIC,Indianapolis Internet Exchange Inc.,US
+33340,INDYIX-MON,Indianapolis Internet Exchange Inc.,US
 33341,EMSER-ASN01,Emser Tile LLC,US
 33342,QUALCOMM-AUSTIN,Qualcomm Inc.,US
 33343,HCHBNET,U.S. Department of Commerce HQ and ITA,US
@@ -37390,7 +37390,7 @@ asn,handle,description,country-code
 42232,PARISAT,PARISAT Tavkozlesi es Szolgaltato Korlatolt Felelossegu Tarsasag,HU
 42234,CSCT-AS,Constanta South Container Terminal SRL,RO
 42235,IDC-AS,INTRA DATA COMMUNICATION,MZ
-42236,ITM8-AS,Itm8 A/S,DK
+42236,ITM8-AS,DTU Science Park a/s,DK
 42237,W1N,w1n ltd,GB
 42238,BOSPOR-AS,Bospor-Telecom LLC,RU
 42239,FARLINE-AS,Ltd. Cypher,RU
@@ -38151,7 +38151,7 @@ asn,handle,description,country-code
 43160,ES-MDC-DATACENTER,AVATEL TELECOM SA,ES
 43161,AS-WISDOMIC,Frendy Oy,FI
 43162,OLIMP-AS,SkyGroup SIA,LV
-43163,ASN-SU8-RIPE,Joint Stock Company RWS BANK,UA
+43163,ASN-SU8-RIPE,PRIVATE JOINT STOCK COMPANY BRIDGE BANK IUTE BANK,UA
 43164,MIKROCOP-AS,Mikrocop d.o.o.,SI
 43165,OPTIBASE-LTD,Optibase ltd,IL
 43166,TOPNET-LTD,Top Net Ltd.,UA
@@ -43503,7 +43503,7 @@ asn,handle,description,country-code
 49189,ILJOJANET-AS,Joonas Ahonen trading as ILJOJA Networks,FI
 49190,XCOMPARTNERS-AS,Leon Sp. z o.o.,PL
 49191,SOFTERIUM-AS,Global Software Investment OU,EE
-49192,OPENFACTORY-EUROPE,Openfactory GmbH,CH
+49192,OPENFACTORY-SECONDARY,Openfactory GmbH,CH
 49193,AS-UNIFON,Unifon AS,NO
 49196,PL-INSYS-AS,Big Blue Marble Sp. z o.o.,PL
 49197,MEDICOVERPL-AS,Medicover Sp. z o.o.,PL
@@ -43624,7 +43624,7 @@ asn,handle,description,country-code
 49322,VIM-AS,ViM Internetdienstleistungen GmbH,AT
 49323,UBILINK2-AS,Ubilink LLC,RU
 49324,CITY-NOTTINGHAM-COUNCIL,Nottingham City Council,GB
-49325,STAVSET-AS,Kvartal Plus Ltd,RU
+49325,STAVSET-AS,OOO SET,RU
 49326,PACGROUP-AS,AO PACTOUR Agency,RU
 49327,TELZA-AS,TOV Telza,UA
 49328,PRIVIANET-AS,Privianet SARL,FR
@@ -44847,7 +44847,7 @@ asn,handle,description,country-code
 50668,DIALOGK-AS,Dialog-K LLC,RU
 50669,COOLVDS-RESERVED,Kutcevol Maksum Mukolaevich,UA
 50670,VTELJO,VTEL HOLDINGS LIMITED/JORDAN CO.,JO
-50671,GOROD-AS,First Digital TV Ltd,RU
+50671,GOROD-AS,OOO SET,RU
 50672,FORMULA-SVIAZY-AS,Formula Svyazi LLC,RU
 50673,SERVERIUS-AS,Serverius Holding B.V.,NL
 50674,SPBEX-AS,JSC Stock Exchange Saint Petersburg,RU
@@ -45295,7 +45295,7 @@ asn,handle,description,country-code
 51155,TBTELECOM,Citylink Telecom Sp. z o.o.,PL
 51156,ONGNET-AS,OngNet Plus LLC,RU
 51157,KONFITEL-AS,Zagorodniy Maxim,UA
-51158,MTREND-AS,Mobile Trend Ltd,RU
+51158,MTREND-AS,OOO SET,RU
 51159,THINKSYSTEMSUK-ASN,CT1 Technologies Ltd,GB
 51161,AKTIA-AS,Aktia Bank Abp,FI
 51162,PFNB-AS,JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan,KZ
@@ -46960,6 +46960,7 @@ asn,handle,description,country-code
 53050,SUPER-CABO-TV-CARATINGA,Super Cabo TV Caratinga Ltda,BR
 53051,COM-NT-TELECOM,Com NT TELECOM LTDA - ME,BR
 53052,MULTIVELOX-SERVICOS-PROVEDOR,MULTIVELOX SERVICOS DE PROVEDOR DE ACESSO A INTERN,BR
+53054,COMPANHIA-ITABIRANA-TELECOMUNICACOES,Companhia Itabirana Telecomunicações Ltda,BR
 53055,DIMENOC-SERVICOS-INFORMATICA,DIMENOC SERVICOS DE INFORMATICA LTDA,BR
 53057,REDEHOST-INTERNET,RedeHost Internet Ltda.,BR
 53060,PORTA-80-SERVICOS,Porta 80 - Servicos em Internet Ltda,BR
@@ -50481,7 +50482,7 @@ asn,handle,description,country-code
 56885,SUMIDA-AS,SUMIDA Romania SRL,RO
 56886,REDSTAR-AS,OOO Red Star,RU
 56887,TECHNOLOGICAL,SC TECHNOLOGICAL SRL,RO
-56888,KRNET-AS,Krasnogorsky networks Ltd.,RU
+56888,KRNET-AS,JSC Intellin,RU
 56889,RADIOTEKHNIKA-AS,TTC Radiotechnika LTD,RU
 56890,DE-CIX-DUS-AS,DE-CIX Management GmbH,DE
 56891,ASCZRB,Narodni rozvojova banka a.s.,CZ
@@ -55845,7 +55846,7 @@ asn,handle,description,country-code
 62926,CHEVRON,Chevron Corporation,US
 62927,MOOSE-TEC,Moose-Tec,US
 62928,LVMH-EQ-SECAUCUS-INET,LVMH MOET HENNESSY LOUIS VUITTON,US
-62929,186-ASN,FirstLight Fiber Inc.,US
+62929,FLASN-62929,FirstLight Networks LLC,US
 62930,CLOUDFLY-US-01,Cloudfly Net Inc,US
 62931,PLAZA-LAS-AMERICAS,Plaza Las Americas Inc.,PR
 62932,VISALIA-UNIFIED-SCHOOL-DISTRICT,VUSD,US
@@ -59245,7 +59246,7 @@ asn,handle,description,country-code
 133117,TTC-AS-AP,Tuvalu Telecommunications Corporation,TV
 133118,UNICOM-CN,China Unicom IP network,CN
 133119,UNICOM-CN,China Unicom IP network,CN
-133120,HNPL-AS-AP,Hosted Network Pty. Ltd.,AU
+133120,HOSTED-AS-AP,Hosted Network Pty Ltd,AU
 133121,NORTONROSEAUSTRALIA-AS-AP,Norton Rose Australia Services Pty Ltd,AU
 133122,HERITAGEBANKLTD-AS-AP,Heritage Bank Ltd.,AU
 133123,CINENET-AS2-AP,SUPERLOOP (AUSTRALIA) PTY LTD,AU
@@ -64368,6 +64369,7 @@ asn,handle,description,country-code
 138349,SNMSPL-AS-AP,Sky Net Multi Services Pvt Ltd,PK
 138350,PRABHUTV-AS-AP,PRABHU DIGITAL PUBLIC LIMITED,NP
 138351,BKTCL-AS-AP,Beijing Kouding Technology Co Ltd.,CN
+138352,FRACTAL,Fractal Co. Ltd.,JP
 138353,NISTINTERNATIONALSCHOOL-AS-AP,NIST INTERNATIONAL SCHOOL,TH
 138354,LOCALDC-AS-AP,LocalDC Pty Ltd,AU
 138355,WARNERTELECOM-AS-AP,Warner Telecommunication LTD,NZ
@@ -64530,6 +64532,7 @@ asn,handle,description,country-code
 138516,CVG-AS-AP,CommVerge Solutions Limited,HK
 138517,IDNIC-SIXNET-AS-ID,PT Six Nett Solusindo,ID
 138518,CLOUDPS-AS-AP,Cloud Platform Services,IN
+138519,M001BROADBAND-AS-AP,001 Broadband,BD
 138520,LNSPL-AS-AP,Lalu Network Solutions Private Limited,IN
 138521,THENETWORKCREW-AS-AP,The Network Crew Pty Ltd,AU
 138522,CHOCOLATE-BROADBAND-AS-AP,Chocolate Broadband,BD
@@ -78082,6 +78085,7 @@ asn,handle,description,country-code
 152233,TRIZN-AS,trizn inc.,KR
 152234,GGSTS-AS,GYEONGGI TRANSPORT CORPORATION,KR
 152235,SBISBDR-AS,SBI SAVINGS BANK,KR
+152279,WIB-AS,WOORI INVESTMENT SECURITIES CO. LTD.,KR
 152280,MGFOREST-AS,MG Credit Information,KR
 152281,SHARE-AS,onesolution,KR
 152282,NFH-AS,National Fire Hospital,KR
@@ -79041,7 +79045,7 @@ asn,handle,description,country-code
 153249,OPTIMAL-AS-IN,Optimal Telemedia Private Limited,IN
 153250,APLEXIA-AS-IN,Apleixa Technologies Pvt Ltd,IN
 153251,JAZTEL-AS-IN,JAZTEL PRIVATE LIMITED,IN
-153252,RGCOMP-AS-IN,STARLINKS,IN
+153252,RGCOMP-AS-IN,ELXIRE,IN
 153253,VELEME24-AS-IN,VELEMENTO TECHNOLOGIES LLP,IN
 153254,ARHAM08-AS-IN,Arham Share Private Limited,IN
 153255,RTSEVEN-AS-IN,RT-7 NETWORK PRIVATE LIMITED,IN
@@ -81813,6 +81817,7 @@ asn,handle,description,country-code
 198407,JSONB-AS,JSON Bourne BV,NL
 198408,EMOUSE-NET,E-Mouse Karol Urbanowicz,PL
 198409,AMTMGTS,PJSC Moscow city telephone network,RU
+198410,ASILKAN-SOYLEMEZ,Asilkan Soylemez,TR
 198411,VELEVISA-AS,AVATEL TELECOM SA,ES
 198412,RAGE4-ANYCAST-AS,RAGE4 NETWORKS POLSKA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,PL
 198413,FORCOM-AS,Forcom Sp. z o.o.,PL
@@ -81821,12 +81826,15 @@ asn,handle,description,country-code
 198416,ELZAPPERO-AS,elzappero.net Marcin Zapotoczny,PL
 198417,DSM-AS,DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim Sirketi,TR
 198418,CELCOM,CELCOM SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,PL
+198419,CEGI-ALFA,CEGI Alfa,FR
+198420,NETLY,Netly LLC,US
 198421,KBCONLINEAS,PRIVREDNO DRUSTVO ZA PROIZVODNJU PROMET I USLUGE KBC ON LINE DOO,RS
 198422,BASTISION,BASTISION LIMITED,HK
 198423,RESOLV-AS,Resolv SARL,FR
 198424,HLG-AS,HLG Internet Sp. z o.o.,PL
 198425,SOLAREDGE-ASN,SOLAREDGE TECHNOLOGIES LTD.,IL
 198426,VONEUS,Voneus Ltd,GB
+198427,WOYONEXUS,WOYONEXUS INC,US
 198429,DRWD-AS,Ruslan Korol trading as DARKWOOD,UA
 198430,VBIZ-PL,vSolutions Pawel Gruszecki,PL
 198431,SKRETKA-AS,Przedsiebiorstwo Wielobranzowe Skretka Lukasz Piwowarczyk,PL
@@ -81846,6 +81854,7 @@ asn,handle,description,country-code
 198445,RDI-AS,RDI Group LTD,RU
 198446,AS-ABAVIA,Abavia S.r.l.,SM
 198447,TB-NET,Mercury Lighting SRL,RO
+198448,BULWARKGG,BULWARKGG (PTY) LTD,ZA
 198449,URALAIRLINES,OJSC Airline company 'Ural Airlines',RU
 198450,APTIC-AS,Aptic Aktiebolag,SE
 198451,TOPEX,TOPEX SP.Z. O. O. SPOLKA KOMANDYTOWA,PL
@@ -81862,20 +81871,28 @@ asn,handle,description,country-code
 198462,NEWSRL-ASN198462,NEW SRL,IT
 198463,OCNET,On 1 Call Support AB,SE
 198464,QA-MOEHE-QA,Ministry of Education and Higher Education,QA
+198465,JHL-AS,JIANYUE HUGO LIANG,CN
 198466,MORBY,J. MORBY,GB
 198467,NOT1-PL-AS,CENTRUM WSPARCIA BIZNESU NOT Sp. z o.o.,PL
 198468,DUTCHIS-AS,Gijsbertus Henricus van Gemert trading as DutchIS,NL
+198469,JESTPRO,Marek Wajdzik,PL
 198470,SI-RLS,RLS merilna tehnika d.o.o.,SI
 198471,OPNET-AS,Opnet Srl,IT
 198472,MANCHESTER-CC-AS,Manchester City Council,GB
 198473,DK-KBDS-AS,KIKKENBORG FIBER & IT ApS,DK
+198474,STEFANSTEVAN,Stefan Stevanovic,RS
+198475,SAPPOC,SAPPOC MEDIA LIMITED,HK
 198476,LANSSTYRELSEN,Lansstyrelsen i Vastra Gotalands lan,SE
 198477,TISGR-NET,TI SPARKLE GREECE SA,GR
+198478,MOORKO-NETWORKS,Alireza Mirzaei Fard,NL
 198479,BPLAN,Nunsys SA,ES
+198480,PERINE,Perine Gevorgyan,AM
 198481,SISTEMA-AS,LLC Sistema,RU
 198482,PERNIKLAN,Pernik Lan Ltd.,BG
 198483,CLOUDTEK-KZ-AS,CloudTek TOO,KZ
+198484,RHAPSODY-AS,Rhapsody CE Sp. z o.o.,PL
 198485,DIRECTVPS,DirectVPS B.V.,NL
+198486,MAGNAPARS,Magna Pars Internet Technologies LTD,CY
 198487,GRID,Grid Computing LLC,US
 198488,NBU-AS,National Bank of Ukraine,UA
 198489,JZO-AS,JZO Sp. z o.o.,PL
@@ -81894,6 +81911,7 @@ asn,handle,description,country-code
 198502,CAMC2-AS,JSC First Asset Management,RU
 198503,DFMAS,Dubai Financial Market (DFM) PJSC,AE
 198504,LU1,Star Satellite Communications Company - PJSC,AE
+198505,ADBINK-AS-LTD,ADBINK LTD,HK
 198506,MEDAVANTE,WCG Muenchen GmbH,DE
 198507,QUANTIC-TELECOM,IELO-LIAZO SERVICES SAS,FR
 198508,PLUSINE-AS,Plusine Systems B.V.,NL
@@ -81914,6 +81932,7 @@ asn,handle,description,country-code
 198523,MOEK-AS,Public Joint Stock Company Moscow Integrated Power Company,RU
 198524,ILOL,iLOL d.o.o.,SI
 198525,CLIMAX-AS,ClimaxNET sp. z o.o.,PL
+198526,GREAT-SCOTT-CONSULTING,ERIN ALLEN SCOTT trading as Great Scott Consulting Services,US
 198527,REI-AS,Haolin Li,CN
 198528,OGN-RU,ORANGE BUSINESS COMMUNICATIONS TECHNOLOGY LIMITED,IE
 198529,JDS-AS,JDS Systems Jacek Dresler,PL
@@ -83207,7 +83226,7 @@ asn,handle,description,country-code
 199830,FAIRGO-AS,Fairgo Cloud Pty Ltd,AU
 199831,CITIMEDIAPL,Citimedia.pl Sp z o.o.,PL
 199832,AS-KURAL-RESEARCH,QUN LIN,CN
-199833,UGSELHOZ-AS,UgSel'hoz LLC,RU
+199833,UGSELHOZ-AS,OOO SET,RU
 199834,IPSOLUS,IP Solus Inc,SC
 199835,UTEAM-MNT,UTEAM LTD,SC
 199836,MASAV-AS,Bank Clearing Center LTD,IL
@@ -84321,7 +84340,7 @@ asn,handle,description,country-code
 200950,CALIBOURNETWORK,Calibour Limited,GB
 200951,EWZ-TELECOM,Elektrizitatswerk der Stadt Zurich,CH
 200952,BARATA,Samuel Oliveira Barata,PT
-200953,ZT-VLAD-AS,Zelenaya Tochka Vladivistok LLC,RU
+200953,ZT-VLAD-AS,OOO SET,RU
 200954,NUVIRA-AS,Andrey Shemanin,RU
 200955,NAUKA-SVAYZ,LLC Nauka-Svyaz,RU
 200956,DTES,DELOITTE AUDITORES SL,ES
@@ -84350,7 +84369,7 @@ asn,handle,description,country-code
 200979,HXS,Hosting eXperts Switzerland AG,CH
 200980,INET-RTLB-07,Tobias Fiebig,DE
 200981,GRAPESHOT-UK-1,Oracle Svenska AB,SE
-200982,ZT-TOMSK-AS,Zelenaya Tochka TOMSK LLC,RU
+200982,ZT-TOMSK-AS,OOO SET,RU
 200983,YOUNGSEOAS,YoungSeo Kim,KR
 200984,NUOVARETI-AS,NUOVAFIBER S.R.L.,IT
 200985,BOKNET,TNtech s.r.o.,CZ
@@ -84491,7 +84510,7 @@ asn,handle,description,country-code
 201120,LEBANON,Chadi Kannir trading as Lebex First International Trading,LB
 201121,AS-TAMIZA,Tamiza Digital S.L.,ES
 201122,KSISC-AS,Krapkowickie Sieci Internetowe Sp.z o.o.,PL
-201123,ZT-UFA-AS,Zelenaya Tochka Ufa LLC,RU
+201123,ZT-UFA-AS,OOO SET,RU
 201124,DKUK-AS,Daniel Kuk,DE
 201125,IFPS,Instytut Fizjologii i Patologii Sluchu,PL
 201126,CDW-UK-AS,CDW Ltd,GB
@@ -84618,7 +84637,7 @@ asn,handle,description,country-code
 201247,MR-GROUP,MR Group JSC,RU
 201248,SCC-AS,SCC EDV-Beratung AG,AT
 201249,IPRO,IPRO Sh.p.k.,AL
-201250,ZT-LPT-AS,Zelenaya Tochka Lipetsk LLC,RU
+201250,ZT-LPT-AS,OOO SET,RU
 201251,HOSTZERO,Hostzero GmbH,DE
 201252,GRANADAORG,Ayuntamiento de Granada,ES
 201253,PKP-INTERCITY,PKP Intercity S.A.,PL
@@ -84638,7 +84657,7 @@ asn,handle,description,country-code
 201267,ASN-RMS,LLC Information Technology Center,RU
 201268,INFOTECH-AS,SKB Kontur Production JSC,RU
 201269,VELONEX,Ivans Lavrentjevs,LV
-201270,ZT-BLG-AS,Zelenaya Tochka Belgorod LLC,RU
+201270,ZT-BLG-AS,OOO SET,RU
 201271,NORDEA-AS,Nordea Bank Abp,FI
 201272,CENAYBILISIM,HIKMET CENKER AYDINBEK,TR
 201273,CUBE2,cubequadrat OU,EE
@@ -87517,7 +87536,7 @@ asn,handle,description,country-code
 204166,AYSDC,7P SERVICIOS INTEGRADOS SLU,ES
 204167,HYVE,Hyve Ltd,GB
 204168,ESZAKNET,EszakNet Kft.,HU
-204169,ICG-AS,Intel City Group LLC,RU
+204169,ICG-AS,OOO SET,RU
 204170,AWASR,Awaser Oman LLC,OM
 204171,TD-K,TD-K A/S,DK
 204172,TTCINFRA-CZ,TTC TELEKOMUNIKACE s.r.o.,CZ
@@ -88952,7 +88971,7 @@ asn,handle,description,country-code
 205614,MEDIALINE-EUROTRADE-AG,Medialine EuroTrade AG,DE
 205615,SSC,SS&C Solution Limited,GB
 205616,BALANCE-PLATFORM-AS,LLC BALANCE-PLATFORM,RU
-205617,NL-QSIT,P. van den Belt is trading as QSIT V.O.F.,NL
+205617,NL-QSIT,P. van den Belt trading as QSIT V.O.F.,NL
 205618,ORZFLY,Yichen Lu,CN
 205619,ASVESNET,Jiri Chalabala,CZ
 205620,UNICOM-AS,Unicom-Telecom d.o.o.,RS
@@ -91578,6 +91597,7 @@ asn,handle,description,country-code
 208268,PARVAZSYS,Parvaz System Information Technology Company (Ltd),IR
 208269,ELITESA-AS,EMPRESA LINEAS TELEFONICAS S.A.,ES
 208270,SYNAMEDIA-BELGIUM,Synamedia Vividtec Europe BVBA,BE
+208271,SMAIGC-AS-LLC,SMAIGC LLC,US
 208272,VR-AS-FI,VR-Group Ltd,FI
 208273,SECUNET,SecuNET INC,SC
 208274,NETUP-AS,NetUP LLC,RU
@@ -92603,7 +92623,7 @@ asn,handle,description,country-code
 209323,GENEANET,Geneanet SAS,FR
 209324,BG-SOF,Genius Sports UK Limited,GB
 209325,LINECARRIER,Line Carrier Oy,FI
-209326,CF-001,Colchester Amphora Trading Ltd,GB
+209326,CF-001,AMPHORA TRADING LTD,GB
 209327,TYKTECH,Thomas Steen Rasmussen trading as tyktech,DK
 209328,ALT-KOM,ALT-KOM Sp. z o.o.,PL
 209329,CITYTALK-INTERNET,FOCUS 4 U LTD,GB
@@ -92826,6 +92846,7 @@ asn,handle,description,country-code
 209550,EEAS,European External Action Service,BE
 209551,ALLGAEUDSL,Amisol GmbH,DE
 209552,JAN,Jan Siroky,BE
+209553,NETVAZ,NETVAZ LIMITED,GB
 209554,ISIF-AS,ISIF OU,EE
 209555,PLATFORMSH,Platform.sh SAS,FR
 209556,HOSHI-NETWORK,Benli Zhong,CN
@@ -93069,7 +93090,7 @@ asn,handle,description,country-code
 209797,MANGOLD-AS,Mangold Fondkommision AB,SE
 209798,EASA,Eesti Avaliku Sektori Andmeside MTU,EE
 209799,AS9121,Team Bilgi Teknolojileri Limited Sirketi,TR
-209800,PHILIPPESIMONPFLUGTRADINGASNIESMANN-PFLUGZEMAGBR,Philippe Simon Pflug trading as Niesmann-Pflug ZEMA GbR,DE
+209800,PHILIPPESIMONPFLUGZEMA,Philippe Simon Pflug trading as Niesmann-Pflug ZEMA GbR,DE
 209801,VF,Virtual Future sp. z o.o.,PL
 209802,NEUROSOFT-PL,Neurosoft Sp. z o.o.,PL
 209803,FIBERCITY,FIBER CITY NETWORKS SLU,ES
@@ -93392,7 +93413,7 @@ asn,handle,description,country-code
 210126,DELFI,DELFI UAB,LT
 210127,EUROFINS-EU,Eurofins NSC IT Infrastructure Germany GmbH,DE
 210128,INVENSIO-AS,Invensio LLC,UA
-210129,ATOMONET-AS,ATOMO NETWORKS SRL,IT
+210129,ATOMONET-AS,Atomo Networks SRL,IT
 210130,OPTILANAS,NBI SIA,LV
 210131,INTERNET,Prodesign LLC,AM
 210133,MOZZ-AS-INFRASTRUCTURE,Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd,RS
@@ -93579,7 +93600,7 @@ asn,handle,description,country-code
 210317,BORLANGE-KOMMUN,Municipality of Borlange,SE
 210318,C-O-AS,CAPITAL OUTSOURCING SAL,LB
 210319,ASTOMARES,Telecable Cartaya S.L.,ES
-210320,FEXXIO-CREATIVE,Cedric Hoogendoorn,NL
+210320,FEXXIO-DIGITAL,Cedric Hoogendoorn,NL
 210321,OPKM0,Operadors Quilometre Zero S.L.,ES
 210322,GFFORSIKRING,GF Forsikring A/S,DK
 210323,IWSZ1,INTERNET WIELKOPOLSKA SP. Z O.O.,PL
@@ -96827,7 +96848,7 @@ asn,handle,description,country-code
 213616,TIKLANET,TIKLANET INTERNET HIZMETLERI SAN. VE TIC. LTD.STI.,TR
 213617,ORG-BN162-RIPE,KANG ZHENG OO,TW
 213618,ORG-OCL38-RIPE,ONESHOME COMMUNICATIONS LTD,GB
-213619,NETBELA-AS,Tom Emming trading as Tinux-IT,NL
+213619,NETBELA-AS,Tom Emming trading as Netbela,NL
 213620,BEYONDFIBRE,Beyond Fibre Ltd,GB
 213621,NAMEPACK,NamePack LLC,US
 213622,FALCON,Falcon FZE LLC,AE
@@ -98352,6 +98373,7 @@ asn,handle,description,country-code
 215189,ELYSIUMSECURITY,ELYSIUM SECURITY SAS,FR
 215190,HOGOK-NETWORK,JAESUNG JEONG,KR
 215191,TONY-AS,Dong-Han Yang,TW
+215192,SIMPRACY-IL,Simpracy LTD,IL
 215193,LI-TX,mohammad khatibi,IR
 215194,AIMETAWEB,AI META WEB SERVICES LLC,US
 215195,EIRESINGA-SHIELD-LIMITED,EIRESINGA SHIELD LIMITED,GB
@@ -100587,7 +100609,7 @@ asn,handle,description,country-code
 263371,INTERVIA-SOLUCOES,Intervia Solucoes Ltda,BR
 263372,RODRIGUES-SARMENTO,RODRIGUES & SARMENTO LTDA,BR
 263374,YZO-TELECOM-TECNOLOGIA,YZO TELECOM TECNOLOGIA EIRELI - ME,BR
-263375,INFO-CENTER-INFORMATICA,INFO CENTER INFORMÁTICA LTDA,BR
+263375,INFO-CENTER-INFORMATICA,Jefferson de Paula Santos-ME,BR
 263376,BANCO-MERCANTIL-BRASIL,BANCO MERCANTIL DO BRASIL S/A,BR
 263377,DLP-COM-TELECOMUNICACOES,DLP-COM TELECOMUNICAÇÕES LTDA,BR
 263378,FOKUSNET-PROVEDOR-INTERNET,FOKUSNET PROVEDOR DE INTERNET LTDA ME,BR
@@ -104768,7 +104790,7 @@ asn,handle,description,country-code
 268172,GOLDEN-FIBRA-PROVEDOR-INTERNET,Golden Fibra Provedor de Internet,BR
 268173,SOUSATECNET,SOUSATEC.NET LTDA ME,BR
 268174,CEARA-NET-FIBRA,CEARÁ NET FIBRA LTDA,BR
-268175,AIRMAR-TELECOM,AIRMAR TELECOM,BR
+268175,AIRMAR-TELECOM,SPACE FYBER,BR
 268176,LINK-TELECOM-EIRELI,LINK TELECOM EIRELI,BR
 268177,D-B-TELECOMUNICACOES,D & B TELECOMUNICAÇÕES LTDA,BR
 268178,TRIBUNAL-JUSTICA-ALAGOAS,TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS,BR
@@ -110999,6 +111021,8 @@ asn,handle,description,country-code
 275734,VDS-TELECOM,Vds Telecom LTDA,BR
 275735,PREMIER-INTERNET-FIBRA,Premier Internet Fibra LTDA,BR
 275736,TERRANET-INTERNET-TELECOMUNICACAO,Terranet Internet Telecomunicacao LTDA,BR
+275737,GO-NET-TELECOM,GO-NET TELECOM LTDA,BR
+275738,PACTO-TELECOM,PACTO TELECOM LTDA,BR
 279045,SPEEDNET-FIBRA,SPEEDNET FIBRA,BR
 286111,BIG-COMERCIO-DE,Big comercio de equipamentos de informatica ltda,BR
 288348,NETWORK-INTERNET-SERVICO,Network Internet Serviço Provedor,BR
@@ -112830,6 +112854,7 @@ asn,handle,description,country-code
 329733,GALACTIC-ENERGY,GALACTIC ENERGY HOLDINGS (PTY) LTD,ZA
 329734,ZOOM-FIBRE,Zoom Fibre,ZA
 329735,ENRYOC,Enryoc (Pty) Ltd,ZA
+329736,ZIGAMA-CSS,Zigama CSS,RW
 339586,KIRKLAND-ELLIS-LLP,Kirkland & Ellis LLP,US
 369063,AS369063,Unknown AS 369063,XX
 393216,UCC-EDU-AS,Union County College,US
@@ -117834,7 +117859,7 @@ asn,handle,description,country-code
 398267,IHMA-GLOBAL-01,IHMA,US
 398268,GSMBS,GLOBAL SMB SOLUTIONS LTD.,CA
 398269,PAYERCOMPASS-01,Voltaire Health LLC,US
-398270,HCWIRELESS,Hill Country Wireless & Technology,US
+398270,HCWIRELESS,Wi-Fiber Inc.,US
 398271,HVPN,HardenedVPN.com LLC,US
 398272,CLOUDIT,CloudIT International LLC,US
 398273,FIRMTRADE-AS,Firm Trade Corporation,VG
@@ -120820,7 +120845,7 @@ asn,handle,description,country-code
 401324,MARTINTX-156,Martin County Texas,US
 401325,LOGAN-ALUMINUM,Logan Aluminum Inc.,US
 401326,BOONE-COOPERATIVE-ADVANTAGE,BCA Connect LLC,US
-401327,AS401327,77997 Newfoundland and Labrador Inc.,CA
+401327,AS401327,AS30265,CA
 401328,FASTWIRELESSLLC,Fast Wireless LLC,US
 401329,CLOUDPROPELLER-AS02,Cloud Propeller,US
 401330,RC1400,Roots Corporation,CA
@@ -121517,7 +121542,7 @@ asn,handle,description,country-code
 402023,PACKETSOLUTIONS-ASN-01,Packet Solutions LLC,US
 402024,BLUENET-PR-COGEPURI,Bluenet Communication,PR
 402025,WCS-WHOLE-150,WCS,US
-402026,AVIRM-SYSTEMS-INC,Avirm Systems Inc.,US
+402026,ASI-BROADBAND,Avirm Systems Inc.,US
 402027,CPA-RTR-02,Canadian Payments Association,CA
 402028,ZEPHYR-BROADBAND,Zephyr Broadband LLC,US
 402029,BAYOUCABLE,Bayou Cable Inc.,US
@@ -121926,6 +121951,10 @@ asn,handle,description,country-code
 402433,HG-ITS-AS2,Hourglass ITS LLC,US
 402434,DAYSPRING-ASN,Dayspring Bank,US
 402435,RUMPKE-ASN,RUMPKE OF OHIO INC.,US
+402436,LV-NETWORKS,BEACON NETWORKS LLC,US
+402437,AS-FIRM,FirmVPS LLC,US
+402438,VIYU-NETWORK-SOLUTIONS,Viyu Network Solutions,US
+402439,GHYINT,GHY International,CA
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

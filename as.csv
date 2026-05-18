@@ -5,7 +5,7 @@ asn,handle,description,country-code
 3,AS3,Adaptive Systems A/S,US
 4,ISI-AS,University of Southern California,US
 5,SYMBOLICS,WFA Group LLC,US
-6,BULL-NETWORK,for further information please visit www.bull.com,US
+6,BULL-NETWORK,"ATOS IT Solutions and Services, Inc.",US
 7,DSTL,The Defence Science and Technology Laboratory,GB
 8,RICE-AS,Rice University,US
 9,CMU-ROUTER,Carnegie Mellon University,US
@@ -6060,7 +6060,7 @@ asn,handle,description,country-code
 6416,NOVELL-AS,Micro Focus,US
 6417,AGENTS-INC,Agents Inc.,US
 6418,SATELNET-AS,SatelNet Communications Inc.,US
-6419,SUNGARDFS,Proxy Object for RPSL,US
+6419,SUNGARDFS,"IDD Enterprises, LP",US
 6420,INTERPLAY,Interplay Productions,US
 6421,AS6421,TATA COMMUNICATIONS (AMERICA) INC,US
 6422,JUNCTION,Okanagan Internet Junction Inc.,CA
@@ -8830,7 +8830,7 @@ asn,handle,description,country-code
 9606,ISAS-AS,Institute of Space and Astronautical Science Japan Aerospace Exploration Agency,JP
 9607,BBTOWER,BroadBand Tower Inc.,JP
 9609,BBIX-CDN,BBIX Inc.,JP
-9614,OCT,Oita Cable Telecom Co ltd.,JP
+9614,OCT,JCOM Marketing Co. Ltd.,JP
 9615,TEES,TOYOHASHI CABLE NETWORK INC.,JP
 9616,MUX,WIDE Project,JP
 9617,ZAQ,JCOM Co. Ltd.,JP
@@ -9144,7 +9144,7 @@ asn,handle,description,country-code
 9927,PHILCOMNET-PH,PhilCom Corporation,PH
 9928,INIXP-ASIA-AS-AP,Rapid-Fire-y,JP
 9929,CUII,CHINA UNICOM Industrial Internet Backbone,CN
-9930,TTNET-MY,Proxy-registered aut-num object for GTC's Upstream Requirement,MY
+9930,TTNET-MY,TT dotCom Sdn Bhd,MY
 9931,NTPCL-AS-AP,National Telecom Public Company Limited,TH
 9932,HIC-AP,SingTel Optus Pty Ltd,AU
 9933,AHCL-AP,SingTel Optus Pty Ltd,AU
@@ -9234,7 +9234,7 @@ asn,handle,description,country-code
 10027,VZB-AU-AS,Verizon Australia Pty Limited,AU
 10028,PTT-GITS-AP,Internet Thailand Company Ltd.,TH
 10029,SHYAMSPECTRA-AS,SHYAM SPECTRA PVT LTD,IN
-10030,CELCOMNET-AP,Proxy-registered aut-num object for GTC's Upstream Requirement,MY
+10030,CELCOMNET-AP,Celcom Axiata Berhad,MY
 10031,WEBSATMEDIA-AS,WebSatMedia Pte Ltd,SG
 10032,HGC-AS-AP,BDX DC Services (HK) Limited,HK
 10033,IVANET-TYO-AP,iBasis (Hong Kong) Ltd,HK
@@ -9763,7 +9763,7 @@ asn,handle,description,country-code
 10566,VIAGENIE,ViaGenie Inc.,CA
 10567,TNA,Total Network Access,US
 10568,PROXY-ASN,Proxy Communications Corporation,CA
-10569,CENIA-AS,NEWCOM customer's customer mirror object from ARIN,CU
+10569,CENIA-AS,Red CENIAInternet,CU
 10570,HYPNO-NTT,NTT Software,CA
 10571,GEOACCESS-AS,UnitedHealth Group Incorporated,US
 10572,RESROCKET,Res Rocket Surfer Inc,US
@@ -11128,7 +11128,7 @@ asn,handle,description,country-code
 11957,CACHEFLOW-AS,Gen Digital Inc.,US
 11958,USABLE,USAble Life,US
 11959,T-CENTER,AEG,US
-11960,CUBADATA-AS,NEWCOM customer mirror object from ARIN,CU
+11960,CUBADATA-AS,Empresa de Telecomunicaciones de Cuba S.A.,CU
 11961,MIDRIVERS,Mid-Rivers Telephone Cooperative,US
 11962,EMPIRE5882300,Empire Today LLC,US
 11963,ASN-PENNWELL,Clarion Events,US
@@ -21465,9 +21465,9 @@ asn,handle,description,country-code
 23592,MFDSNET-AS,Ministry of Food and Drug Safety,KR
 23593,BKLNETWORK-AS,bkl LLC,KR
 23594,YKKNET-AS,YKK KOREA CO. LTD.,KR
-23596,KRNIC-EDNS-AS,DNS anycast AS object for .kr DNS service,KR
-23599,KRNIC-DDNS-AS,DNS anycast AS object for .kr DNS service,KR
-23600,KRNIC-GDNS-AS,DNS anycast AS object for .kr DNS service,KR
+23596,KRNIC-EDNS-AS,Korea Internet Security Agency,KR
+23599,KRNIC-DDNS-AS,Korea Internet Security Agency,KR
+23600,KRNIC-GDNS-AS,Korea Internet Security Agency,KR
 23601,TAEKWANG-AS,tsis,KR
 23602,DTAC-CRIE-AS-AP,DTAC (CRIE Project),TH
 23603,ICONZ-AS-AP,Housing New Zealand,NZ
@@ -24739,7 +24739,7 @@ asn,handle,description,country-code
 27310,180SERVERS,180Servers.com,US
 27311,AS27311,Biogen MA Inc,US
 27312,CARSWELL,Thomson Reuters Canada Limited,CA
-27313,SPENCER-STUART,RIPE Object for Route Advertisments,US
+27313,SPENCER-STUART,Spencer Stuart,US
 27314,HIU,Hope International University,US
 27315,EQUINIX-CX-HO,Equinix Inc.,US
 27316,EICCD,Eastern Iowa Community College District,US
@@ -25134,7 +25134,7 @@ asn,handle,description,country-code
 27720,CITTA-TELECOM,CITTA TELECOM LTDA,BR
 27721,INFORMACION-TECNOLOGIA,Informacion y Tecnologia,CO
 27723,RICH-INTERNATIONAL,Rich International,PA
-27725,ETECSA-AS,NEWCOM customer mirror object from ARIN,CU
+27725,ETECSA-AS,Empresa de Telecomunicaciones de Cuba S.A.,CU
 27726,GLOBAL-BANK,GLOBAL BANK,PA
 27727,CONSULTRONIC-SAECA,Consultronic S.A.E.C.A.,PY
 27728,OCEAN-COMMUNICATIONS,Ocean Communications,CW
@@ -28627,7 +28627,7 @@ asn,handle,description,country-code
 32031,BVUSD229,BLUE VALLEY USD NO 229,US
 32032,ORGILL-AS,Orgill Inc.,US
 32033,EXXON-AS,Dummy aut-num object for AS32033,US
-32034,NEWCOM-AS,NEWCOM mirror object from ARIN,US
+32034,NEWCOM-AS,Speedcast LATAM Inc.,US
 32035,CCDT-AS,Sangoma US Inc.,US
 32036,CYBERARK,CYBER-ARK SOFTWARE,US
 32037,AS-ADDISON,Arbonne International Inc.,US
@@ -32909,7 +32909,7 @@ asn,handle,description,country-code
 36863,ABC-BITS-WC,American Broadcasting Companies Inc.,US
 36864,AFRIBONEMALI-AS,AFRIBONE Mali SA,ML
 36865,MZ-TELEDATA,ASN for Teledata Mozambique,MZ
-36866,JTL-KE,Jamii Telecommunications Limited AS Object,KE
+36866,JTL-KE,Jamii Telecommunications Limited,KE
 36867,KOKONET-BGP,Kokonet Ltd Seychelles ISP,SC
 36868,ADB,ADB Networks Limited,MU
 36870,ITWORX-AS,ITWorx,EG
@@ -35225,7 +35225,7 @@ asn,handle,description,country-code
 39639,AS-FFERNANDEZ,Valor Information Technologies S.L.,ES
 39640,AS-AVEASCO,Valor Information Technologies S.L.,ES
 39641,ASN-WILLUX,WILLUX.be N.V.,BE
-39642,NORLYS-FIBERNET,Sinal A/S,DK
+39642,SINAL-AS,Sinal A/S,DK
 39643,SVENLJUNGA-AS,Svenljunga kommun,SE
 39644,AMKR-AS,PJSC ArcelorMittal Kryviy Rih,UA
 39646,IACCESS-ASN,Activ Consulting One S.R.L.,RO
@@ -48348,7 +48348,7 @@ asn,handle,description,country-code
 54360,USJ-ASN,USJ,US
 54361,PBCI,Poarch Band of Creek Indians,US
 54362,OGDEN-CITY-CORPORATION,Ogden City Corporation,US
-54363,BHI-ASN,Proxy registered for BHI - Baker Hughes Inc,US
+54363,BHI-ASN,Baker Hughes Holdings LLC,US
 54364,RR,Rosen Research LLC,US
 54365,DIGITAL-INNOVATIONS-BY-RYAN,Digital Innovations by Ryan,US
 54366,FCB-ASN-54366-AP,First-Citizens Bank & Trust Company,US
@@ -49423,7 +49423,7 @@ asn,handle,description,country-code
 55477,ADMU-AS-PH,Ateneo de Manila University,PH
 55478,VEDAADNET1-AS-AU,EQUIFAX PTY LIMITED,AU
 55479,IITKNET-AS-AP,IIT Kanpur,IN
-55482,DIGITAL-WAVE-MY,Proxy-registered aut-num object for GTC's Upstream Requirement,MY
+55482,DIGITAL-WAVE-MY,Sunway Digital Wave Sdn Bhd,MY
 55483,MULTINET-AS-AP,Multinet Broadband,PK
 55485,TWWOA-AS-NZ,Te Whare Wananga o Awanuiarangi,NZ
 55486,NETWORX-AS-AP,Networx Australia,AU
@@ -49629,7 +49629,7 @@ asn,handle,description,country-code
 55716,DIACCU-AS-AP,Censorship Compliance Unit Department of Internal Affairs,NZ
 55717,HOSTONDEMAND-IN,70 KLJ Complex,IN
 55719,RBNZ-AS-AP,Reserve Bank of New Zealand,NZ
-55720,GIGABIT-MY,Proxy-registered aut-num object for GTC's Upstream Requirement,MY
+55720,GIGABIT-MY,Gigabit Hosting Sdn Bhd,MY
 55721,BL-AP,Blackberry Limited,CA
 55722,CENPAC-AS-AP,CenPac Net Inc.,NR
 55723,DIGICEL-NR-AS-AP,Digicel Nauru,NR
@@ -57019,7 +57019,7 @@ asn,handle,description,country-code
 64004,SSDHOSTING-HK,SSD Hosting Limited,HK
 64005,KK-AS-AP,KaritKarma Limited,BD
 64006,NEXUSONE-AS-AP,Nexus One Pty Ltd,AU
-64008,MAINTAINER-FOR-APNIC,Maintainer for APNIC stub records,US
+64008,DSWD-PH,Department of Social Welfare and Development,PH
 64009,HK36CLOUD-HK,36cloud Limited,HK
 64010,BASICBRIX-AS-AP,BasicBrix LLP,SG
 64011,WORCESTER-POLYTECHNIC-INSTITUTE,Worcester Polytechnic Institute,US
@@ -65085,7 +65085,7 @@ asn,handle,description,country-code
 138907,KHANBANK-AS-AP,KHAN BANK LLC,MN
 138908,RAL-AS-AP,Racing Australia Limited,AU
 138909,LUMINOUSTECHNOLOGY-AS-AP,Luminous Technology,BD
-138910,ACL-AS-AP,N/A,PK
+138910,ACL-AS-AP,Aero Cable Pvt Ltd,PK
 138911,RNS-AS-AP,Renaissance Phuket Resort & Spa,TH
 138912,GHATAILONLINE-AS-AP,Ghatail Online,BD
 138913,EDGECENTRES-AS-AP,Edge Centres,AU
@@ -75257,7 +75257,7 @@ asn,handle,description,country-code
 149167,HIPL-AS-AP,HUAWEI INTERNATIONAL PTE. LTD.,SG
 149168,FLYHOPPER-AS-AP,Fly Hopper,BD
 149169,LINKTECHIT-AS-AP,Link Tech IT,BD
-149170,TOLEDOCABLETV-AS-AP,NONE,PH
+149170,TOLEDOCABLETV-AS-AP,Toledo Cable TV,PH
 149171,SADEKENTERPRISE-AS-AP,Sadek Enterprise,BD
 149172,M54NLTD-AS-AP,54North,GB
 149173,HBISC-AS-AP,Hindukush Bridge ICT Services Company,AF
@@ -81493,7 +81493,7 @@ asn,handle,description,country-code
 197751,ARKTIKA-AS,Trade and logistics facility ARKTIKA Ltd,UA
 197752,ASIACORE-AS,Asia Core Limited,NG
 197753,QUADV-AS,QuadV Ltd,GB
-197754,AS-CHRG-NL,Christiaan Goossens,NL
+197754,AS-CHRGNL,Christiaan Goossens,NL
 197755,ELGROM,ELGROM P.M.I.E. Garbacz Jerzy,PL
 197756,PECOM-AS,Pervaya Ekspedizionnaya Kompaniya LLC,RU
 197757,IAS,Ivan Bulavkin,RU
@@ -84363,7 +84363,7 @@ asn,handle,description,country-code
 200642,CAVL-AS,Cavellon Ltd.,GB
 200643,LABOR-SPB-RU,Osinovaya Roshcha JSC,RU
 200644,PROGRESS-AS,Joint Stock Company Space rocket centre Progress,RU
-200645,GILASSRAYANEH,Fara Ertebat Mabna PJS,IR
+200645,FARAERTEBATMABNA,Fara Ertebat Mabna PJS,IR
 200646,BHSEC-PRG,BH securities a.s.,CZ
 200647,PAGEUP,Netrics AG,CH
 200648,CPDMSW,Centrum Personalizacji Dokumentow Ministerstwa Spraw Wewnetrznych i Administracji,PL
@@ -111627,7 +111627,7 @@ asn,handle,description,country-code
 327865,MTN-BUSINESS-NAMIBIA,Mobile Telephone Networks Business Solutions (Namibia) (Proprietary) Limited,NA
 327866,MADAGASCAR-IX-MGMT,Madagascar Global Internet eXchange,MG
 327867,ADVTECH,The Independent Institute of Education (Pty) Ltd,ZA
-327869,AS327869,Unknown AS 327869,XX
+327869,WADE-MULTI-TRADING,WADE MULTI TRADING LTD,NG
 327870,GBS-DRC,Global Broadband Solution,CD
 327871,ANPTIC,Agence Nationale de Promotion des TIC (ANPTIC),BF
 327872,IBITS-INTERNET,IBITS Internet (pty) Ltd,ZA

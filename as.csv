@@ -7066,7 +7066,7 @@ asn,handle,description,country-code
 7502,IP-KYOTO,Advanced Software Technology & Management Research Institute of KYOTO,JP
 7503,AIR,Air Internet Service Co. Ltd.,JP
 7505,MEDIAWEB,Fujitsu Systems Applications & Support Limited,JP
-7506,INTERQ,GMO Internet Group Inc.,JP
+7506,GMO-I-R1,GMO Internet Inc.,JP
 7509,HINES,Hokkaido University,JP
 7511,SYNAPSE,SYNAPSE Co. Ltd.,JP
 7512,WITH,WITH Network,JP
@@ -16400,7 +16400,7 @@ asn,handle,description,country-code
 18066,TCLL-AS-AP,Tata Communications Lanka Ltd,LK
 18067,HUMEIA,Humeia Corporation,JP
 18068,ACROSS,Dream Wave Shizuoka Co. Ltd.,JP
-18069,SOFTBANK,SB Technology Corp.,JP
+18069,SOFTBANK,SoftBank Corp.,JP
 18070,NDAC,Global Network Core Co. Ltd.,JP
 18071,MEI1,Panasonic Information Systems Co. Ltd,JP
 18072,STREAMWING,NTT DOCOMO BUSINESS Inc.,JP
@@ -46408,6 +46408,7 @@ asn,handle,description,country-code
 52211,SSI-AS,SSI Schaefer SRL,RO
 52212,INETINVEST-AS,DV CLOUD LLC,UA
 52213,ISP-EXSTREAM-AS,LLC DONETSK FIBER-OPTICAL NETWORK,UA
+52215,EXEPLAY-DOO,Exeplay d.o.o.,RS
 52217,ISKRA-AS,OOO ISKRA,RU
 52218,CHYUS-NET-AS,Cherkasov Yuriy Sergiyovuch,RU
 52220,BAWAG-AT-AS,BAWAG P.S.K. Bank fuer Arbeit und Wirtschaft und Oesterreichische Postsparkasse Aktiengesellschaft,AT
@@ -46989,7 +46990,7 @@ asn,handle,description,country-code
 52905,MIT-INTERNET,MIT Internet,BR
 52906,VOXX-TELECOM,VOXX TELECOM LTDA - ME,BR
 52907,PRIME-FIBRA,PRIME FIBRA LTDA,BR
-52908,JP-PROVIDERS-EIRELLI,JP Providers Eirelli,BR
+52908,JP-PROVIDERS-EIRELLI,JP PROVIDERS LTDA,BR
 52910,A-ANGELONI,A. Angeloni & Cia Ltda,BR
 52911,NETSTORE-TECNOLOGIA,netstore tecnologia ltda,BR
 52912,VIEIRA-RETECHESKI,VIEIRA E RETECHESKI LTDA,BR
@@ -49770,7 +49771,7 @@ asn,handle,description,country-code
 55903,ARROWNET,Tokyo Stock Exchange Inc.,JP
 55904,KOGAKUIN-AS,KOGAKUIN University,JP
 55905,COMZNET2,TOP CLOUD Inc.,JP
-55907,GMO-DNS,GMO Internet Group Inc.,JP
+55907,GMO-DNS-R1,GMO Internet Inc.,JP
 55908,NOMURA-NET,Nomura Research Institute Ltd.,JP
 55909,KOCHI-CT,National Institute of Technology Kochi College,JP
 55910,SITNET-AS,Shibaura Institute of Technology,JP
@@ -52219,9 +52220,9 @@ asn,handle,description,country-code
 58646,FBDC-B,FreeBit Co. Ltd.,JP
 58647,KAGAWAU-AS,Kagawa University,JP
 58648,AT-I-NET,AT-I Inc.,JP
-58649,GMO-REG-NET,GMO Internet Group Inc.,JP
+58649,GMO-REG-R1,GMO Internet Inc.,JP
 58650,CATVWINK,Warabi Cable Vision Co. Ltd.,JP
-58651,GMO-REGSEC,GMO Internet Group Inc.,JP
+58651,GMO-REG-R2,GMO Internet Inc.,JP
 58652,KOCHI-U-NET,Kochi University,JP
 58653,VOLVOITJAPAN,UD Trucks Corporation Volvo Information Technology Japan,JP
 58654,BLESS,BLESS Co. Ltd.,JP
@@ -52322,12 +52323,12 @@ asn,handle,description,country-code
 58782,ICCNET-DHK-BD,ICC Communication,BD
 58784,RIS,Rissho University,JP
 58785,TGU-NET,Tohoku Gakuin University,JP
-58786,GMOKOR-NET,GMO Internet Group Inc.,JP
+58786,GMO-I-R3,GMO Internet Inc.,JP
 58787,TERAKOYA-NET,Cyber Terakoya,JP
 58788,CHIRORO,Chiroro-Net Co. Ltd.,JP
 58789,DUNAMIS,DUNAMIS Co. Ltd,JP
 58790,TEAMFELNULL,SERVER-G Group,JP
-58791,GMOOSK-NET,GMO Internet Group Inc.,JP
+58791,GMO-I-R2,GMO Internet Inc.,JP
 58792,CLOSIP-1,closip Inc.,JP
 58793,NIFCLOUD-NET,FUJITSU LIMITED,JP
 58795,FTDPL-SG,First Technology Development PTE Ltd.,SG
@@ -58344,6 +58345,7 @@ asn,handle,description,country-code
 132020,NINEWIRE-AS-AP,NineWire Pty Ltd,AU
 132021,KALIBOCABLE-PH,Kalibo Cable Television Network Inc,PH
 132022,IPWTECH-AS-AP,IP World Technologies Sdn. Bhd.,MY
+132023,TNETPH-AS-AP,tNet Network and Data Solution,PH
 132024,REBYC-JP,Rebyc Inc.,JP
 132025,PROJECTAPSY-AS-AP,Wingel cooperation co. Ltd,KH
 132026,RL-AS-AP,Yatanarpon Teleport Company Limited,MM
@@ -81128,7 +81130,7 @@ asn,handle,description,country-code
 197316,COPENHAGENCLOUD,Copenhagen Cloud ApS,DK
 197317,NUUDAY-ENTERTAINMENT,TDC Brands A/S,DK
 197318,HARDCOM-AS,HardCom Sp. z o.o.,PL
-197319,WANNEMAUS,Luca Maximilian Wannemacher,DE
+197319,WANNEMACHER-NET,Luca Maximilian Wannemacher,DE
 197320,NPA-AS,National Pharmacy Association Ltd,GB
 197321,LUXMED-AS,LUX MED Sp. z o.o.,PL
 197322,IETT,IETT Isletmeleri Genel Mudurlugu,TR
@@ -84778,7 +84780,7 @@ asn,handle,description,country-code
 200990,HOPS,Hrvatski operator prijenosnog sustava d.d.,HR
 200991,P-PROS,Blue Coded B.V.,NL
 200992,DWIM-AS,Carlos Martin Nieto,ES
-200993,NYANET,Yanislav Basiuk,RU
+200993,NYARU,Yanislav Basiuk,RU
 200994,CLUB-AS-001,BNW TECHNOLOGY LTD,GB
 200995,BITTERBAL,BIT BV,NL
 200996,KUNTALIITTO-AS,Suomen Kuntaliitto ry,FI
@@ -91025,7 +91027,7 @@ asn,handle,description,country-code
 207269,ANGELICOUSSISGROUP,MARAN TANKERS MANAGEMENT INC,LR
 207270,FIBERLINK-AS,Fiberlink LLC,GS
 207271,DATALINK-AS,Swiss Datalink AG,CH
-207272,SPICY-TELECOMMUNICATIONS,Vojtech Linhart,CZ
+207272,VOJTECH-LINHART-DEPARTMENT-OF-TELECOM,Vojtech Linhart,CZ
 207273,PHAROAH-AS,Pharoah Tools Limited,GB
 207274,ECTRADING-AS,Epsilon Commodity Trading GmbH,AT
 207275,GOOISEMEREN,Gemeente Gooise Meren,NL
@@ -92288,7 +92290,7 @@ asn,handle,description,country-code
 208545,SECTOR7,sector7 GmbH,DE
 208546,RAPIDATA-BACKBONE,Rapidata GmbH,DE
 208547,VOLGA-AS,LLC NPK VOLGA-AVTOMATIKA,RU
-208548,CANICE,Kria Elinarbur,IS
+208548,ARCTIC-TERN-GLOBAL,Kria Elinarbur,IS
 208549,PORTWAKE,Christian Ehrig,DE
 208550,TRANSFERWISE-EST,Wise Payments Limited Eesti filiaal,EE
 208551,AABENRAAKOMMUNE,Aabenraa Kommune,DK
@@ -93592,7 +93594,7 @@ asn,handle,description,country-code
 209863,PROLVL-AS,PROLVL Ltd.,UA
 209864,NAIVE-NETWORK,Zhaofeng Li,US
 209865,ASLRM2,ASL Roma 2,IT
-209866,PIOTRMACHA,Piotr Macha,PL
+209866,VRTSH,Piotr Macha,PL
 209867,SCORPION-NET,LLC Security Agency Scorpion,RU
 209868,CONTRUST-SOLUTIONS,Contrust Solutions S.R.L.,MD
 209869,OLLIES-CLOUD,Ollie's Cloud LTD,GB
@@ -98584,7 +98586,7 @@ asn,handle,description,country-code
 214927,PSB-AS,PSB HOSTING LTD,GB
 214928,JANLINGELBACH-AS,Jan Martin Lingelbach,DE
 214929,LASTRESPONSE,Lukas Wenzl trading as LastResponse,AT
-214930,ALICEWYAN-AS,Alice Wyan Garcia Martin,ES
+214930,FINITUD-LABS-AS,Alice Wyan Garcia Martin,ES
 214931,ALUE-NET,ALUE NETWORK LIMITED,GB
 214932,MAWACON,Mawacon GmbH,DE
 214933,BAKAPUB-NETWORK,Bingxin Liu,CN
@@ -103630,7 +103632,7 @@ asn,handle,description,country-code
 266325,SOURCE-CONNECT-TELECOMUNICACOES,SOURCE CONNECT TELECOMUNICAÇÕES EIRELI ME,BR
 266326,RVNETWORK,RVNETWORK LTDA,BR
 266327,NCS-FIBRA,NCS-Fibra ( New Central Solutions ),BR
-266328,JP-PROVIDERS-EIRELLI,JP Providers Eirelli,BR
+266328,JP-PROVIDERS-EIRELLI,JP PROVIDERS LTDA,BR
 266329,TVNET-CABOFRIENSE-PROCESSAMENTO,VIVA PROV LTDA,BR
 266331,GLOBAL-NET-INFORMATICA,Global Net Informatica Ltda,BR
 266332,PRESTEL-SERVICOS-EIRELI,PRESTEL SERVICOS EIRELI,BR
@@ -122662,7 +122664,10 @@ asn,handle,description,country-code
 402543,KCMOPD,Kansas City Missouri Police Department,US
 402544,INLETIX,Inletix LLC,US
 402545,UMC-MAIN-ASN,University Medical Center of El Paso,US
-402547,GOCODEIT-INC,GoCodeIT Inc,CA
+402546,RACKBYTE,RackByte LLC,US
+402547,JWYNEGARJR-INC,J Wynegar Jr Inc,US
+402548,MHS-NET,MRPOO HOSTING SOCIETY,CA
+402549,TERRASERVERS-NET,Terraservers Services LLC,US
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

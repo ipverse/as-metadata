@@ -16372,7 +16372,7 @@ asn,handle,description,country-code
 18037,IPERA-AU-AP,VOCUS PTY LTD,AU
 18038,KNUE-AS,Korea National University of Education,KR
 18040,AOTERNET-AS-TW,Aoter Networks Co. Ltd,TW
-18041,TWDS-AS-TW,Taiwna Digital Streaming Co.,TW
+18041,TWDS-AS-TW,Taiwan Digital Streaming Co.,TW
 18042,KBT,Koos Broadband Telecom,TW
 18043,HCCG-AS,Department of Education Hsinchu City,TW
 18044,KANRAYS-AS-TW,Kanrays Technology Co. Ltd.,TW
@@ -73076,7 +73076,7 @@ asn,handle,description,country-code
 146966,CHINANET-YANGZHOUNORTH-IDC,China Telecom,CN
 146967,CORE-AS-AP,Coretel,AU
 146968,COMSQUARE,COMSQUARE Co. Ltd.,JP
-146969,SBT-SC,SB Technology Corp.,JP
+146969,SBT-SC,SoftBank Corp.,JP
 146970,BBS,BBSakura Networks Inc.,JP
 146971,M-ADVENTURE,Media Adventure Inc,JP
 146972,TEC-JP-NET,TOYO Engineering Corporation,JP
@@ -80658,6 +80658,7 @@ asn,handle,description,country-code
 154691,IRINN-VTPL-AS-IN,VERTILOGICA TECH PRIVATE LIMITE,IN
 154692,HSBMC-AS-AP,Hoeung Sun Boys Motor Co. Ltd,KH
 154693,RANINAGARONLINE-AS-AP,Raninagar Online,BD
+154694,DHAKABANKPLC-AS-AP,Dhaka Bank PLC.,BD
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
 196610,DECIX-ACADEMY,DE-CIX Management GmbH,DE
@@ -81427,7 +81428,7 @@ asn,handle,description,country-code
 197614,IANKLEMM-AS,Ian David Klemm,DE
 197615,NASZASIEC-NET-AS,NaszaSiec.NET Krakow Damian Murzynowski,PL
 197616,OPTRIX-LV,Optrix SIA,LV
-197617,MRFRIDAY,Scalability AB,SE
+197617,SCALABILITY,Scalability AB,SE
 197618,SDNUM-SAS,SDNum SAS,FR
 197619,TELNAB,Telnab Networks LLC,US
 197620,EZ-BIT-AS,ezbit sp. z o.o.,PL
@@ -89951,7 +89952,7 @@ asn,handle,description,country-code
 206185,EPIX-WAW-LOCAL,Stowarzyszenie e-Poludnie,PL
 206186,EPIX-KTW-LOCAL,Stowarzyszenie e-Poludnie,PL
 206187,DIA-ASN,Interactive Investor Services Limited,GB
-206188,ZETANL,Zeta Datacenters B.V.,NL
+206188,ZETA-CLEAN-INTERNET,Zeta Datacenters B.V.,NL
 206189,CWELX-AS,Cable Aireworld S.A.U.,ES
 206190,HORIZON-SCOPE-IQ,Alathrae Company for Information Technology Limited,IQ
 206191,DADA-IT-DR1,REGISTER S.P.A.,IT
@@ -122210,7 +122211,7 @@ asn,handle,description,country-code
 402088,PLIMMOBILE,Plim Mobile Telecom LLC,US
 402089,GEICO-ION,GEICO,US
 402090,DANIEL,10990 W. Highlander Rd. LLC,US
-402091,AYIT-01,oknumbers inc,US
+402091,HELPFUL-OKNUM-01,oknumbers inc,US
 402092,WEBSEC,WEBSEC,US
 402093,UPHOST,DigitalHost LLC,US
 402094,SRJK-DFW-01,SRJK LLC,US

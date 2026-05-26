@@ -16692,7 +16692,7 @@ asn,handle,description,country-code
 18400,XTREME-AS-AP,Xtreme Networks Limited,NZ
 18401,AS18401-AS,DAEGU UNIVERSITY,KR
 18402,NLB-AS-SG-AP,National Library Board,SG
-18403,FPT-AP,FPT Telecom Company,VN
+18403,FPT-VN,FPT Telecom Company,VN
 18404,HYDIX-AS-AP,Amaravati People Foundation,IN
 18405,SNOWREGAL-AS-AP,Cynergic Pty Ltd,AU
 18406,TWO-DEGREES-AS-AP,Two Degrees Mobile Limited,NZ
@@ -35454,7 +35454,7 @@ asn,handle,description,country-code
 39922,TLCM-AS,MOT Ltd,RU
 39923,AS-UNIXSOLUTIONS,Unix-Solutions BV,BE
 39924,KTM,Teleradio Company Cable Television Network Ltd,UA
-39926,RADIOFLASH,CONSORZIO TOPIX - TORINO E PIEMONTE EXCHANGE POINT,IT
+39926,TOP-IX-PROJECTS,CONSORZIO TOPIX - TORINO E PIEMONTE EXCHANGE POINT,IT
 39927,ELIGHT-AS,E-Light-Telecom Ltd.,RU
 39928,ASN-1PLUS1,Broadcasting TV Company Studio 1+1,UA
 39930,EPS-DG-AS,EPS Distribution Grup SRL,RO
@@ -57821,7 +57821,7 @@ asn,handle,description,country-code
 131471,LOGINMEPVTLTD-AS-AP,Login.Me (Pvt) Ltd,PK
 131472,DRAGONHISPEED-TH,dragonhispeed,TH
 131473,SRMU-GROUP-IN,SRM University,IN
-131474,NETX-AS-AP,Sajid Trading Ltd.,BD
+131474,NETX-AS-AP,NETX,BD
 131475,SIT-AS-AP,Singapore Institute of Technology,SG
 131476,FUSIONBB-AU,Fusion Broadband Pty Ltd,AU
 131477,PSC-594-131477,Prime Security Corp.,US
@@ -64537,7 +64537,7 @@ asn,handle,description,country-code
 138343,CYBER-AS-AP,Cyber Net Communications,BD
 138344,MSIG-AS-AP,MSIG Insurance (Thailand) Co. Ltd.,TH
 138345,STARHUB-MOBILE2,Starhub Ltd.,SG
-138346,SAJIDTRADINGLTD-AS-AP,Sajid Trading Ltd.,BD
+138346,SAJIDTRADINGLTD-AS-AP,NETX,BD
 138347,TFI-AS-AP,TFI Digital Media Limited,HK
 138348,ANTARCTICANZ-AS-AP,Antarctica New Zealand,NZ
 138349,SNMSPL-AS-AP,Sky Net Multi Services Pvt Ltd,PK
@@ -80659,6 +80659,12 @@ asn,handle,description,country-code
 154692,HSBMC-AS-AP,Hoeung Sun Boys Motor Co. Ltd,KH
 154693,RANINAGARONLINE-AS-AP,Raninagar Online,BD
 154694,DHAKABANKPLC-AS-AP,Dhaka Bank PLC.,BD
+154695,NOVONORDISKAS-AS-AP,NOVO NORDISK A/S,DK
+154696,ANDCLOUDLTD-AS-AP,Andcloud Limited,HK
+154697,HASAKI-VN,Hasaki Vietnam Joint Stock Company,VN
+154698,PGAME-VN,Perfin Entertainment and Technology Joint Stock Company,VN
+154699,UNICASOLU-VN,Unica Solutions Joint Stock Company,VN
+154700,SYSTIGRATOR-AS-AP,SYSTIGRATOR SOLUTIONS,IN
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
 196610,DECIX-ACADEMY,DE-CIX Management GmbH,DE
@@ -83326,7 +83332,7 @@ asn,handle,description,country-code
 199526,ALSHAYA-AS,Mohammed Hamoud Alshaya Co. W.L.L,KW
 199527,BITE-LT-AS,UAB Bite Lietuva,LT
 199528,ORG-PA1509-RIPE,PE AVUBIS-INTERTAINMENT,UZ
-199529,LAGOM-AS,Vitalijs Jurkevics,LV
+199529,VITALIJS-JURKEVICS,Vitalijs Jurkevics,LV
 199530,VIZA-4,VIZA-4 Ltd.,RU
 199531,DESEM,Desem Turizm ve Ticaret Limited Sirketi,TR
 199532,WIKINET,Tecnolife S.r.l.,IT
@@ -83451,7 +83457,7 @@ asn,handle,description,country-code
 199653,ARUBAFR-AS,Aruba S.p.A.,IT
 199654,OXIDE-GROUP-LIMITED,Oxide Group Limited,GB
 199655,VIKINGMUD,VikingMUD,NO
-199656,ZYNER-AS,Zyner,SE
+199656,ZYNER,Zyner,SE
 199657,TOUSKOVNET,TNtech s.r.o.,CZ
 199658,SPBIEF-AS,Fond Roskongress,RU
 199660,CLOUDATA,LTI NETWORKS SASU,FR
@@ -83967,7 +83973,7 @@ asn,handle,description,country-code
 200174,AS-WISPEED,Wispeed LTD,GB
 200175,NFA-AS,LLC Planet of flowers,RU
 200176,HARDSOFT-AS,Szechinski Krzysztof - HARDSOFT,PL
-200177,ATLANTIC-SERVER,PT Atlantic Aksa Group,ID
+200177,ATLANTIC-AS-ID,PT Atlantic Aksa Group,ID
 200178,TARIK-ALTHURAYA-TRANSIT,Tarik Al-thuraya Company For Communications Service Ltd.,IQ
 200179,AGS,Abbas Ghanim Saddam,IQ
 200180,PREMIUMFAST,PT. Premium Fast Network,ID

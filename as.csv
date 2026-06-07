@@ -196,7 +196,7 @@ asn,handle,description,country-code
 194,UCAR,University Corporation for Atmospheric Research,US
 195,SDSC-AS,San Diego Supercomputer Center,US
 196,BOEING196,The Boeing Company,US
-197,RAYTHEON-AS-2,Raytheon Company,US
+197,RAYTHEON-AS-2,RTX Corporation,US
 198,DNIC-AS-00198,United States Department of Defense (DoD),US
 199,CENTURYLINK-LEGACY-LVLT-199,Level 3 Parent LLC,US
 200,CENTURYLINK-LEGACY-LVLT-200,Level 3 Parent LLC,US
@@ -1709,7 +1709,7 @@ asn,handle,description,country-code
 1734,ROP-COCA-AS01,Contra Costa County Regional Occupation Program / Richmond,US
 1735,FISHER-AS,Fisher Controls Int. Inc.,US
 1736,MU-AS,Marquette University,US
-1737,RAYTHEON-AS-1,Raytheon Company,US
+1737,RAYTHEON-AS-1,RTX Corporation,US
 1738,OKOBANK-AS,OP Osuuskunta,FI
 1739,TUTNET,Tampere University of Technology,FI
 1740,CERFNET,AT&T Enterprises LLC,US
@@ -4760,7 +4760,7 @@ asn,handle,description,country-code
 5030,TAL,Transamerica Leasing,US
 5031,DNIC-AS-05031,United States Department of Defense (DoD),US
 5032,VARDE-PART,Varde Partners Europe Ltd.,XX
-5033,AS5033,Key Information Systems Inc.,US
+5033,AS5033,Converge Technology Solutions US LLC,US
 5034,AS-STARNET,STAR Communications,US
 5035,CYNET,WebNet,US
 5036,WCA,Whalley Computer Associates,US
@@ -11175,7 +11175,7 @@ asn,handle,description,country-code
 12004,YLEO,Young Living Essential Oils,US
 12005,SC-AS,University of South Carolina,US
 12006,BROADVIEWNET-AS-12006,Windstream Communications LLC,US
-12007,RAYASN,Raytheon Company,US
+12007,RAYASN,RTX Corporation,US
 12008,VERCARA,Vercara LLC,US
 12009,NWF-EONI-ASN-1,Ziply Fiber,US
 12010,IFDS,International Financial Data Services (Canada) Ltd.,CA
@@ -17890,7 +17890,7 @@ asn,handle,description,country-code
 19607,SB-US,Sharedband London Network,US
 19608,CANADIAN-BLOOD-SERVICES,Canadian Blood Services,CA
 19609,MANDA-VEEDIX-NET,M&A Technology Inc,US
-19610,AS19610,Raytheon Company,US
+19610,AS19610,RTX Corporation,US
 19611,ASSOCIACAO-ANTONIO-VIEIRA,Associação Antônio Vieira - Unisinos,BR
 19612,JPMORGAN-VASTERA,JPMorgan Chase & Co.,US
 19613,MICRO-GENERAL,Fidelity National Financial Inc.,US
@@ -21412,7 +21412,7 @@ asn,handle,description,country-code
 23533,PIP-ASN,Permian Investment Partners LP,US
 23534,PRMSA-ASEMNET-ASN,Puerto Rico Medical Services Administration,PR
 23535,HOSTROCKET,HostRocket.com Inc.,US
-23536,AZURE-NETWORKS,Area Temps Inc.,US
+23536,XK22-ASN,XK22 Enterprise,US
 23537,CRITIGEN,Synoptek LLC,US
 23538,JOHNSON-COUNTY-ASN,Johnson County Iowa,US
 23539,TCF-NETWORK-01,Tel-Star Communications Of Florida Inc.,US
@@ -98513,7 +98513,7 @@ asn,handle,description,country-code
 214756,CONSTELLIUM-CH,Constellium Switzerland AG,CH
 214757,JAKUB-KRSA,Jakub Krsa,CZ
 214758,QUINNECT,Quinnect B.V.,NL
-214759,LG-PLUS,LEKAI ZHAO,CN
+214759,ZHANG-CHEN,LEKAI ZHAO,CN
 214760,LS4KDC,LS4KDC LIMITED,HK
 214761,FOREACH,Foreach AS,NO
 214762,MATHOST,Sebastian Stefanek trading as MatHost.eu,PL
@@ -111561,6 +111561,8 @@ asn,handle,description,country-code
 274943,TELKOM-IOT,TELKOM IOT SAS,CO
 274944,BRYNET-2022-CA,BRYNET 2022 C.A.,VE
 274945,MAX-TV-S-S,MAX TV S A S,CO
+274946,WELLNET,WELLNET S.R.L.,DO
+274947,CABLE-NET-UNIVERSAT,CABLE NET UNIVERSAT S.A.S,CO
 275613,QUEIROZ-FREITAS-COMERCIO,QUEIROZ & FREITAS COMERCIO E SERVIÇOS LTDA,BR
 275614,ALTA-AMERICA-LATINA,ALTA - América Latina Telecomunicações Avançadas,BR
 275615,R-ABREU-MACHADO,R de Abreu Machado,BR
@@ -113603,6 +113605,8 @@ asn,handle,description,country-code
 329756,MSTAR,MSTAR SA,MZ
 329757,WAIN-TIMELESS,WAIN Timeless Network Services Limited,KE
 329758,OVATION-CONCEPTS,Ovation Concepts,ZA
+329759,FROSTBYTE,FROSTBYTE NETWORKS,ZA
+329760,NAIVAS,NAIVAS LIMITED,KE
 339586,KIRKLAND-ELLIS-LLP,Kirkland & Ellis LLP,US
 369063,AS369063,Unknown AS 369063,XX
 393216,UCC-EDU-AS,Union County College,US
@@ -113680,7 +113684,7 @@ asn,handle,description,country-code
 393289,MERCERU-GA-ASN,Mercer University,US
 393290,TPGROUP,Teleperformance Group Inc.,US
 393291,KEMPER-DEVELOPMENT,Kemper Development Company,US
-393292,SKIZNET-AS-01,SkizNet,US
+393292,SKIZNET,SkizNet,US
 393293,ILITCH-HOLDINGS,Ilitch Holdings Inc.,US
 393294,MEGATEL-NETCOM,Megatel Netcom Corporation,US
 393295,PLAYGILLEYS,Gilley's LLC,US
@@ -122829,7 +122833,7 @@ asn,handle,description,country-code
 402557,AIRDRESS,Airdress,US
 402558,BROADBANDNORTH,Broadband North Inc.,CA
 402559,GTVR-100G,Transvision Reseau Inc.,CA
-402560,NIKO-ANDREO,NicktronicIT LLC,US
+402560,NYA-SERVICES,NicktronicIT LLC,US
 402561,AS-DCG-01,DCONNECT GROUP LLC,US
 402562,UCA-AS,University of Central Arkansas,US
 402563,PETVET-CARE-CENTERS-LLC,PetVet Care Centers LLC,US
@@ -122869,7 +122873,10 @@ asn,handle,description,country-code
 402597,DBH-CORP,Blick Art Materials,US
 402598,NUBIVANCE-01,Nubivance,US
 402599,ADCOM911,ADCOM911,US
-402600,UN9-LLC,UN9 LLC,US
+402600,UN9,UN9 LLC,US
+402601,PENLIGHT,Penlight Tech LLC,US
+402602,HFS-01,Hyperforge Studios,US
+402603,SKCANS-01,Southwestern College,US
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

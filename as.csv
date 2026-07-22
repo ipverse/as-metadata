@@ -884,7 +884,7 @@ asn,handle,description,country-code
 888,AMECO-PRIMARY,AMECO,US
 889,DVFIBER-VT,Deerfield Valley Communications Union District,US
 890,EXTERNAL-ASN-HSD-01,Hermiston School District 8R,US
-891,SB-AS-001,Smart Bid Inc,US
+891,CST-128-891,Profound,US
 892,EBSI-ISP-FO-01,Emergent Biosolutions,US
 893,NINJA-IX-FOUNDATION-ASN,Ninja-IX Foundation,US
 894,NINJA-IX-SERVICES-ASN,Ninja-IX Services LLC,US
@@ -6577,7 +6577,7 @@ asn,handle,description,country-code
 7007,AS-PDP,Predicted Paths BV,NL
 7008,TIBA-AS,The Internet Business Association,US
 7009,QDECK-MDR,Quarterdeck Corp.,US
-7010,DACSNX-RES,DACS-IX,US
+7010,NELLICUS,NELLICUS LLC,US
 7011,FRONTIER-AND-CITIZENS,Frontier Communications of America Inc.,US
 7012,AS7012,JMC Capital LLC,US
 7013,AS-HSLC-01,Health Sciences Libraries Consortium,US
@@ -11666,7 +11666,7 @@ asn,handle,description,country-code
 12601,CEGEDIM,Cegedim.Cloud SASU,FR
 12605,LIWEST-AT,LIWEST Kabelmedien GmbH,AT
 12606,EASYNET-NL,GTT - EMEA Ltd.,GB
-12608,DATALABS-TRANSPORT-AS,IGLG Network CZ s.r.o.,CZ
+12608,IGLG-7F5-DATA,IGLG Network CZ s.r.o.,CZ
 12610,ASNETBASE,Rockenstein AG,DE
 12611,RKOM,R-KOM Regensburger Telekommunikationsgesellschaft mbH,DE
 12613,FIREBRICK-AS,Firebrick Limited,GB
@@ -18117,7 +18117,7 @@ asn,handle,description,country-code
 19833,ABAATLASN1,Abacus Solutions LLC,US
 19834,CNVR-ORD,Conversant LLC,US
 19835,ROGERS-COMMUNICATIONS,Rogers Communications Canada Inc.,CA
-19836,VERISIGNGRS,VeriSign Infrastructure & Operations,US
+19836,USNYC-2,VeriSign Infrastructure & Operations,US
 19837,206-208-88-0,BUILDERS FIRSTSOURCE INC.,US
 19838,BLUE-WATER-NETWORKS,Blue Water Networks,US
 19839,SANDSBETHLEHEM,Wind Creek Bethlehem LLC,US
@@ -18182,13 +18182,13 @@ asn,handle,description,country-code
 19902,NET-STATE-OHIO,Department of Administrative Services,US
 19903,REACHBROADBAND,Reach Broadband LLC,US
 19904,COL,City of Longview,US
-19905,SECURITYSERVICES,Vercara LLC,US
+19905,ARBORCLOUD,Arbor Cloud,US
 19906,CHARLES-RIVER,Charles River Associates Inc.,US
 19907,NEUSTAR-AS6,Trans Union LLC,US
 19908,CEGEPSL-AS,Cegep de Saint-Laurent,CA
 19909,DAYLIGHT,Daylight Transport LLC,US
 19910,NEUSTAR-AS6,Trans Union LLC,US
-19911,SECURITYSERVICES,Vercara LLC,US
+19911,ARBORCLOUD,Arbor Cloud,US
 19912,SKYPACKET-MCKEAN,SkyPacket,US
 19913,AS-WPNP,W-PNP Inc.,US
 19914,AEG-SPRINTCTR,AEG Kansas City Arena LLC,US
@@ -18797,7 +18797,7 @@ asn,handle,description,country-code
 20560,ASN-TANNER,Iway AG,CH
 20561,AS20561-INA,Schaeffler Technologies AG & Co. KG,DE
 20562,OPEN-PEERING-AS,Broadband Hosting B.V.,NL
-20565,NETALIS,Netalis SAS,FR
+20565,NETALIS,NetR SAS,FR
 20568,AHRT-PRO-AS,4iG Telecommunications Holding Zrt,HU
 20569,AINAIP-AS,Telia Finland Oyj,FI
 20570,ASN-TSI-IPLS,Telekom Deutschland GmbH,DE
@@ -19294,7 +19294,7 @@ asn,handle,description,country-code
 21331,OKDN-AS,Oslo kommune Utviklings- og kompetanseetaten,NO
 21332,NTC-AS,PJSC Vimpelcom,RU
 21333,INVA-AS,IN.VA. S.p.A.,IT
-21334,ASN-ONE-HU,One Hungary Ltd.,HU
+21334,ASN-ONE-HU,2Connect Telecommunications Infrastructure & Network Services Ltd.,HU
 21335,DIGITONESPB-AS,JSC ER-Telecom Holding,RU
 21336,INFORENT-AS,INFORENT GmbH,DE
 21337,UBBNET,United Bulgarian Bank AD,BG
@@ -32676,14 +32676,14 @@ asn,handle,description,country-code
 36621,DGTLD,VeriSign Global Registry Services,US
 36622,IGTLD,VeriSign Global Registry Services,US
 36623,HGTLD,VeriSign Global Registry Services,US
-36624,GGTLD,VeriSign Global Registry Services,US
-36625,KGTLD,VeriSign Global Registry Services,US
+36624,DEFRA-2,VeriSign Global Registry Services,US
+36625,DEFRA-7,VeriSign Global Registry Services,US
 36626,JGTLD,VeriSign Global Registry Services,US
 36627,AROOT,VeriSign Global Registry Services,US
-36628,LGTLD,VeriSign Global Registry Services,US
-36629,MGTLD,VeriSign Global Registry Services,US
+36628,SGSIN-2,VeriSign Global Registry Services,US
+36629,USSEA-4,VeriSign Global Registry Services,US
 36630,YGTLD,VeriSign Global Registry Services,US
-36631,ZGTLD,VeriSign Global Registry Services,US
+36631,USCHI-2,VeriSign Global Registry Services,US
 36632,XGTLD,VeriSign Global Registry Services,US
 36633,BSPD-MINT,Brightspeed,US
 36634,GREATRIVERHEALTHSYSTEMS,Great River Health Systems Inc.,US
@@ -58563,6 +58563,7 @@ asn,handle,description,country-code
 132227,A2D-AS-AP,A2D Entertainment Limited,IM
 132228,VANGOV-AS-AP,Vanuatu Government,VU
 132229,TRENDMICRO-PH,Trend Micro Inc.,PH
+132230,IDNIC-STP-AS-ID,PT Sentrya Teknologi Putrawan,ID
 132231,NFLL-AS-AP,Network For Learning Limited,NZ
 132232,DCS-AS,Data Centre Services,BT
 132233,FCNADS-AS-AP,Fourleaf Consulting Network and Data Solution,PH
@@ -83133,7 +83134,7 @@ asn,handle,description,country-code
 199130,FOURSPIRO,4Spiro - Sociedade de Consultoria LDA,PT
 199131,CITY-OF-YORK-COUNCIL,City of York Council,GB
 199132,BG-CALDERRA,CALDERRA Ltd.,BG
-199133,NYAIP,Yanislav Basiuk,RU
+199133,NYAEU,Yanislav Basiuk,RU
 199134,GRUPOGIMENO-ASN1,Sociedad de Fomento Agricola Castellonense S.A.,ES
 199135,SATCOM1,Satcom1 Airtime Services ApS,DK
 199136,DELTA,DELTA LLC,RU
@@ -84981,7 +84982,7 @@ asn,handle,description,country-code
 200990,HOPS,Hrvatski operator prijenosnog sustava d.d.,HR
 200991,P-PROS,Blue Coded B.V.,NL
 200992,DWIM-AS,Carlos Martin Nieto,ES
-200993,NYARU,Yanislav Basiuk,RU
+200993,NYACORE,Yanislav Basiuk,RU
 200994,CLUB-AS-001,BNW TECHNOLOGY LTD,GB
 200995,BITTERBAL,BIT BV,NL
 200996,KUNTALIITTO-AS,Suomen Kuntaliitto ry,FI
@@ -87567,7 +87568,7 @@ asn,handle,description,country-code
 203582,MTS,M-Tech Systems Ltd,GB
 203583,DOM-P-AS,MBH Bank Nyrt.,HU
 203584,ALLIANZ-TECHNOLOGY-SE-CEE,Allianz Technology SE,DE
-203585,NETALIS-PACA,Netalis SAS,FR
+203585,NETALIS-PACA,NetR SAS,FR
 203586,USEK-AS,Holy Spirit University of Kaslik,LB
 203587,ANTWIFI,Antvvifi Bilisim ve Telekomunikasyon Hiz. San. ve Ticaret LTD STI,TR
 203588,STOROCLOUD,Danylo Storozhev,DE
@@ -96743,7 +96744,7 @@ asn,handle,description,country-code
 212837,OPI-AS,Osrodek Przetwarzania Informacji - Panstwowy Instytut Badawczy,PL
 212839,CYBERMANCER,Cybermancer Infosec B.V.,NL
 212840,SENSYS-PPPOE-NET,OOO WestCall Ltd.,RU
-212841,SM-AASS,AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI,SM
+212841,SM-AASS,A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici,SM
 212842,COMING-AS,Coming Computer Engineering DOO,RS
 212843,IPMAC-AS,TOV IPMAC,UA
 212844,MATISGAMES-FR,Matis Gagneux,FR
@@ -100319,6 +100320,14 @@ asn,handle,description,country-code
 216473,NET-HOST,Bashinskii Vadim Ruslanovich,KZ
 216474,AS-SERVERMANAGEMENTPANEL,Moritz Mantel trading as Nerdscave,DE
 216475,NKTELECOM,NKtelecom INC,US
+219161,TEUIT-AS,Teuit Sociedad Limitada,ES
+219162,AMIN-DATA-NETWORKS,Amin Data Networks PJSC,IR
+219163,MMN-AS,MAGNETIC MEDIA NETWORK S.p.A.,IT
+219164,PORTDC,PORTDC VERI VE TEKNOLOJI HIZMETLERI ANONIM SIRKETI,TR
+219165,PROGRAMMNYE-RESHENIYA-AS,OOO Programmnye Resheniya,RU
+219166,LABV6-AS,Markus Heptner,DE
+219167,AS-SYSTEEX,Think1st Ltd & Co. Kg,DE
+219168,ALTSHULER-SHAHAM,Altshuler Shaham Ltd,IL
 219169,CLOUDLINUX,Cloud Linux Software Inc.,US
 219170,EWE-AS,EWE COMP DOO,RS
 219171,NICODUCK-EVENT,Nicola von Thadden,DE
@@ -101011,7 +101020,7 @@ asn,handle,description,country-code
 262509,ALARES-CABO-SERVICOS,Alares Cabo Servicos de Telecomunicacoes S.A.,BR
 262511,UNIVERSIDADE-FEDERAL-PARA,Universidade Federal do Pará,BR
 262512,COMPANHIA-INFORMATICA-JUNDIAI,Companhia de Informática de Jundiaí - CIJUN,BR
-262513,SERMA-ASSOC-USUARIOS,SERMA ASSOC DOS USUARIOS DE QUIP DE PROCESS DE DAD,BR
+262513,SERMA-ASSOC-USUARIOS,COMPANHIA ULTRAGAZ S.A.,BR
 262514,BTT-TELECOMUNICACOES,BTT TELECOMUNICACOES S.A.,BR
 262515,FUNDACAO-JOAO-PAULO-II,FUNDACAO JOAO PAULO II,BR
 262516,DIRECTWEB-TECNOLOGIA-EM,Directweb Tecnologia em Informática Eireli,BR
@@ -106397,7 +106406,7 @@ asn,handle,description,country-code
 268773,VLA-TELECOMUNICACOES,VLA TELECOMUNICACOES LTDA,BR
 268774,K-NET-COMUNICACOES-EIRELI,K NET COMUNICAÇÕES EIRELI,BR
 268775,MY-ZONE-INTERNET,MY ZONE INTERNET,BR
-268778,MAYARA-B-G-FERNANDES,MAYARA B G FERNANDES ME,BR
+268778,MAYARA-B-G-FERNANDES,FTI NET,BR
 268779,GIGANET-SOLUCOES-TECNOLOGIA,GIGANET SOLUCOES E TECNOLOGIA LTDA,BR
 268781,SOS-REDES-TECNOLOGIA,SOS REDES TECNOLOGIA E INOVACAO LTDA.,BR
 268782,H-NET-TELECOM,H-NET TELECOM LTDA,BR
@@ -112274,6 +112283,9 @@ asn,handle,description,country-code
 275796,TOOP-NET,Toop Net LTDA,BR
 275797,POLO-CONNECT-TELECOMUNICACOES,POLO CONNECT TELECOMUNICACOES LTDA,BR
 275798,UNIVERSIDADE-FEDERAL-SANTA,Universidade Federal de Santa Catarina,BR
+275799,TELBIT-TECNOLOGIA-INFORMACAO,Telbit Tecnologia da Informação Ltda,BR
+275800,CYBORG-CONECT-EIRELI,Cyborg Conect Eireli,BR
+275801,ATUAL-TELECOM-PROVEDOR,ATUAL TELECOM PROVEDOR DE INTERNET LTDA,BR
 279045,SPEEDNET-FIBRA,SPEEDNET FIBRA,BR
 286111,BIG-COMERCIO-DE,Big comercio de equipamentos de informatica ltda,BR
 288348,NETWORK-INTERNET-SERVICO,Network Internet Serviço Provedor,BR
@@ -114186,6 +114198,7 @@ asn,handle,description,country-code
 329773,MAISHA-HOME,Maisha Home Broadband Limited,KE
 329774,ENZA-FOR-ELECTRONIC-PAYMENTS,Enza for electronic payments,EG
 329775,GIGA-FIBRE-INTERNET-LTD,GIGA FIBRE INTERNET LIMITED,KE
+329776,BOLEAN-SOLUTIONS-PTY-LTD,BOLEAN SOLUTIONS (PTY) LTD,ZA
 339586,KIRKLAND-ELLIS-LLP,Kirkland & Ellis LLP,US
 369063,AS369063,Unknown AS 369063,XX
 393216,UCC-EDU-AS,Union County College,US
@@ -114902,7 +114915,7 @@ asn,handle,description,country-code
 393935,SCCU,Sierra Central Credit Union,US
 393936,TULSA-COUNTY,Metropolitan Tulsa Electronic Network,US
 393937,MCS-PUBLIC-NET,Medical Card System Inc.,PR
-393938,SSL-AS,SPACE SYSTEMS/LORAL INC.,US
+393938,IMWEST-AS,Intuitive Machines LLC,US
 393939,RUFFALO-NOEL-LEVITZ,RUFFALO NOEL LEVITZ LLC,US
 393940,ULTRADENT-PRODUCTS,Ultradent Products Inc,US
 393941,PRIMARY-AS393941,Flying Man Studio LLC.,US
@@ -123633,6 +123646,7 @@ asn,handle,description,country-code
 402778,ATABYTE,Atabyte LLC,US
 402779,AMG-01,AmeriCo Group Inc.,US
 402780,KYFIX,KYFIX,US
+402781,SOFTPHON,Softphon LLC,US
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

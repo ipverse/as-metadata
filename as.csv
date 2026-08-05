@@ -3377,7 +3377,7 @@ asn,handle,description,country-code
 3590,C-TEC,COMMONWEALTH TELEPHONE CO.,US
 3591,EMORY,Emory University,US
 3592,TRINCOLL-AS,Trinity College,US
-3593,FRONTIER-EPIX,Frontier Communications of America Inc.,US
+3593,FRONTIER-EPIX,Verizon Business,US
 3594,RAIN1,RAIN,US
 3595,GNAXNET-AS,Global Net Access LLC,US
 3596,UNIVERSIDAD-AUTONOMA-METROPOLITANA,Universidad Autonoma Metropolitana,MX
@@ -5298,7 +5298,7 @@ asn,handle,description,country-code
 5647,ASN-KODAK,Eastman Kodak Company,US
 5648,SATLINK,Satlink S.A.,AR
 5649,KEVNET-ASN,Kevin Communication Services,US
-5650,FRONTIER-FRTR,Frontier Communications of America Inc.,US
+5650,FRONTIER-FRTR,Verizon Business,US
 5651,GMLL-AS,GMLL CAPITAL MANAGEMENT LLC,US
 5652,IN-NET,INTERNET Indiana,US
 5653,UCSF,University of California San Francisco,US
@@ -6578,7 +6578,7 @@ asn,handle,description,country-code
 7008,TIBA-AS,The Internet Business Association,US
 7009,QDECK-MDR,Quarterdeck Corp.,US
 7010,NELLICUS,NELLICUS LLC,US
-7011,FRONTIER-AND-CITIZENS,Frontier Communications of America Inc.,US
+7011,FRONTIER-AND-CITIZENS,Verizon Business,US
 7012,AS7012,JMC Capital LLC,US
 7013,AS-HSLC-01,Health Sciences Libraries Consortium,US
 7014,XO-AS7014,Verizon Business,US
@@ -10405,7 +10405,7 @@ asn,handle,description,country-code
 11220,COGENT-11220,Cogent Communications LLC,US
 11221,WHRONET,WHRO Public Media,US
 11222,PRL,Ralph Lauren Corporation,US
-11223,FRONTIER-COMMUNICATIONS-OF,Frontier Communications of America Inc.,US
+11223,VERIZON-BUSINESS,Verizon Business,US
 11224,SIR,Schaeffer's Investment Research,US
 11225,CENTURYLINK-QC-MOE-OMAHA-GRAND-ISLAND,CenturyLink Communications LLC,US
 11226,CENTURYLINK-QC-MOE-CEDAR-RAPIDS,CenturyLink Communications LLC,US
@@ -14227,7 +14227,7 @@ asn,handle,description,country-code
 15500,PJSC-ROSTELECOM,PJSC Rostelecom,RU
 15502,VODAFONE-IRELAND-ASN,Vodafone Ireland Limited,IE
 15503,MULTINET-SA,Netia SA,PL
-15504,AS-TIEBREAK-SOLUTIONS,Naxex Technological Development Ltd,BG
+15504,AS-TIEBREAK-SOLUTIONS,Tiebreak Solutions Ltd.,CY
 15505,KAU,King Abdulaziz University (KAU) - Deanship of Information Technology,SA
 15507,IT3GNS-P4-AS,P4 Sp. z o.o.,PL
 15508,NOVOSOFT-AS,Novosoft razvitie Ltd.,RU
@@ -21049,7 +21049,7 @@ asn,handle,description,country-code
 23162,UKYEDU,University of Kentucky,US
 23163,N9E7X5E3N1I2N4C,Nexen Inc.,CA
 23164,LLNW-SFO,Limelight Networks Inc.,US
-23165,BPAS-01,Brierley & Partners Inc.,US
+23165,SAS-01,Brierley & Partners Inc.,US
 23166,NORVAX,Norvax LLC,US
 23167,BAYER-ARCH,Bayer Corporation,US
 23168,MCDEAN-ASN,M.C. Dean Inc.,US
@@ -23569,7 +23569,7 @@ asn,handle,description,country-code
 26124,EOLNET-ECUADOR-ONLINE,Grupo Coripar Corisat America,US
 26125,HOLCIMUSINC,Holcim (US) Inc.,US
 26126,READING-AREA-COMM-COL,RACC,US
-26127,FRONTIERLABRESEARCH,Frontier Communications of America Inc.,US
+26127,FRONTIERLABRESEARCH,Verizon Business,US
 26128,AS-360WISP,360 Communications LLC,US
 26129,HOLLYWOOD-CENTER,Sunset Las Palmas Entertainment Properties LLC,US
 26130,LIPTINFOR-AS,LIPTINFOR NIGER SA,NE
@@ -27006,7 +27006,7 @@ asn,handle,description,country-code
 30061,WINSUPPLY-INC,Winsupply Inc.,US
 30062,TTEMI-ASN,Tetra Tech EM Inc.,US
 30063,DEDICONET,SWITCH LTD,US
-30064,FRONTIER-FRTR,Frontier Communications of America Inc.,US
+30064,FRONTIER-FRTR,Verizon Business,US
 30065,DIETZ-WATSON,Dietz & Watson Inc.,US
 30066,NCL-MIA1,Norwegian Cruise Line Holdings Ltd.,US
 30067,AACG-AS,Anne Arundel County Maryland,US
@@ -29172,7 +29172,7 @@ asn,handle,description,country-code
 32584,I-NETLINK,Xplore Inc.,CA
 32585,KSCM-AS,King Street Capital Management L.P.,US
 32586,NIAGARA-WIRELESS-INTERNET-COMPANY,Niagara Wireless Internet Co.,CA
-32587,NCH-FTWDC-01,Frontier Communications of America Inc.,US
+32587,NCH-FTWDC-01,Verizon Business,US
 32588,VCSL-US,Virtusa Consulting Services Private Limited,US
 32589,HTLF-PUBLIC-AS,UMB Bank NA,US
 32590,VALVE-CORPORATION,Valve Corporation,US
@@ -38296,7 +38296,7 @@ asn,handle,description,country-code
 43155,SW-BIELEFELD-AS,Stadtwerke Bielefeld GmbH,DE
 43157,URBANWIMAX-NET,Telcom Networks Limited,GB
 43158,INDUSTRIAL-BANK-OF-KUWAIT,Industrial Bank of Kuwait CJSC,KW
-43160,ES-MDC-DATACENTER,TEMPLUS SPAIN SL,ES
+43160,ES-TEMPLUS-SPAIN,TEMPLUS SPAIN SL,ES
 43161,AS-WISDOMIC,Frendy Oy,FI
 43162,OLIMP-AS,SkyGroup SIA,LV
 43163,ASN-SU8-RIPE,PRIVATE JOINT STOCK COMPANY BRIDGE BANK IUTE BANK,UA
@@ -45943,7 +45943,7 @@ asn,handle,description,country-code
 51701,ADMINOR,Adminor Aktiebolag,SE
 51702,CIX,University of Zagreb University Computing Centre,HR
 51703,BOYDAK,ERCIYES ANADOLU HOLDING A.S.,TR
-51704,SWGFL,South West Grid for Learning Trust Ltd.,GB
+51704,SWGFL,RM Education Ltd,GB
 51705,MOSKOVIA-TELECOM-NET,Moskovia Telecom OOO,RU
 51706,FRANCE-IX-PAR-AS,France IX Services SASU,FR
 51707,INNOVATION-CENTRE-MEDWAY-ASN,Medway Towns Council,GB
@@ -53898,7 +53898,7 @@ asn,handle,description,country-code
 60587,XINON-CARRIER-AS,XINON GmbH,AT
 60588,XENTO-AS,Team Consulting d.o.o.,BA
 60589,LIQUID-AS,Liquid Systems Sp. z o.o.,PL
-60590,AS-TIEBREAK-SOLUTIONS,Naxex Technological Development Ltd,BG
+60590,AS-TIEBREAK-SOLUTIONS,Tiebreak Solutions Ltd.,CY
 60591,SUPPORTCHAIN-AS,Support Chain LLC,BY
 60592,GRANSY,Gransy s.r.o.,CZ
 60593,NR-DC-UK-AS,Network Rail Infrastructure Limited,GB
@@ -57972,7 +57972,7 @@ asn,handle,description,country-code
 131627,PEICITY-AS-TW,Peicity Digital Cable Television. LTD,TW
 131628,TAIFUCLOUD-AS-TW,Tai-Fu Cloud Co. Ltd.,TW
 131629,CKMATES-AS-TW,CKMATES INTERNATIONAL CO. LTD,TW
-131630,LAZCO,Lazco Corporation,TW
+131630,LAZCO-BROADBAND-TW,Lazco Corporation,TW
 131631,AS-1033-TW,1033 Network Information LTD.,TW
 131632,GMICLOUD-ASN-PHOENIX,GMI Cloud Phoenix LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC),TW
 131633,SAKURAHOST-AS-TW,Sakura Internet Ltd.,TW
@@ -57993,7 +57993,7 @@ asn,handle,description,country-code
 131648,TAIWANMOBILE-AS,Taiwan Mobile Co. Ltd.,TW
 131649,TAIWANMOBILE-AS,Taiwan Mobile Co. Ltd.,TW
 131650,TAIWANMOBILE-AS,Taiwan Mobile Co. Ltd.,TW
-131651,LAZCO,Lazco Corporation,TW
+131651,LAZCO-BROADBAND-VIP,Lazco Corporation,TW
 131652,NETGUARD,NETGUARD INTERNATIONAL,TW
 131653,CCONNECTED-TW,Cloudbase Connected,TW
 131654,NTCL-AS-TW,Network Telecommunication Co. Ltd,TW
@@ -80857,6 +80857,7 @@ asn,handle,description,country-code
 154798,IDNIC-POLTEKKESSMG-ID,Poltekkes Kemenkes Semarang,ID
 154800,IDNIC-GILI-WIFI-ID,PT Gili Terkoneksi Teknologi,ID
 154801,DTSB-AS-AP,DAKOTA TECH (M) SDN BHD,MY
+154803,OOTPSFD-AS-AP,Office of the Permanent Secretary for Defence,TH
 171278,PUNTONET-SA,PUNTONET S.A.,EC
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
@@ -83840,7 +83841,7 @@ asn,handle,description,country-code
 199792,CLEARSTACK,ClearStack B.V.,NL
 199793,BANKESKHATA,Bank Eskhata OJSC,TJ
 199794,EMO-AS,EMOCLOUD LTD,GB
-199795,ONEMARKETING,SAC-IT A/S,DK
+199795,AS-VADASYS,SAC-IT A/S,DK
 199796,MEDIAHUIS,Mediahuis Technology & Product Studio NV,BE
 199797,SENTREVA,Sentreva Internet Hizmetleri Anonim Sirketi,TR
 199798,ABSOLUT,Investment Group ABSOLUTE LLC,RU
@@ -85527,7 +85528,7 @@ asn,handle,description,country-code
 201484,SAPTCO,Saudi Public Transport Company JSC,SA
 201485,LUX-RS-BG,Luxoft Professional Romania S.R.L.,RO
 201486,LUX-EG-C,Luxoft Professional Romania S.R.L.,RO
-201487,NSMNET,Nathan Morgan,GB
+201487,NSMNET,NSMNET LTD,GB
 201488,HANIEF-IKHLASUL-AS-ID,Ahmad Hanif Ihlasul Amal,ID
 201489,PTORBITZ,PT Orbitz Digital Akses,ID
 201490,LUX-RS-BG,Luxoft Professional Romania S.R.L.,RO
@@ -89610,7 +89611,7 @@ asn,handle,description,country-code
 205583,PC-YELLOW,PC Yellow bv,BE
 205584,CASHPOINT-AS,CASHPOINT Solutions GmbH,AT
 205585,ARVANCLOUD-CDN-IR,Noyan Abr Arvan Co. ( Private Joint Stock),IR
-205586,MOIDART,BLUE BISCAY LTD,GB
+205586,MOIDART,HALE KAI LIMITED,GB
 205587,WEBWORLD-BROADBAND-AS,Sternforth Ltd. trading as WebWorld,IE
 205588,DAFTARE-TABLIGHATE-ESLAMI,The Islamic Propagation Office of Qom Seminary,IR
 205589,ADE22,Yves Jacques Meier,LI
@@ -94635,7 +94636,7 @@ asn,handle,description,country-code
 210651,DIEHL-AVIATION-AS,Diehl Aviation Laupheim GmbH,DE
 210652,NEXEDI,Nexedi SA,FR
 210653,BISTUMMZ,Bistum Mainz Bischoefliches Ordinariat,DE
-210654,SRVN-AS,Des Capital B.V.,NL
+210654,CUSTOMER-AS,Des Capital B.V.,NL
 210655,LACRETTE,Brian LaCrette,US
 210656,YACLOUDBMS,Yandex.Cloud LLC,RU
 210657,ASN-ERMESWIFI,ERMES WIFI SRL,IT
@@ -99481,7 +99482,7 @@ asn,handle,description,country-code
 215564,ASN,Alexandre Schifano,FR
 215565,DNEPRCOM-AS,LLC DNEPRCOM,UA
 215566,UYUMSOFT,Uyumsoft Bilgi Sistemleri ve Teknolojileri Tic. A.S.,TR
-215567,NETVAY,Berk Ermis,TR
+215567,NETVAY,NETVAY INTERNET VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI,TR
 215568,MANDING-DATA-VENTURE,MB Manding Data Venture,LT
 215569,DELETED,Florian Bach,DE
 215570,SERVERGATE,SERVERGATE LLC,US
@@ -100372,6 +100373,24 @@ asn,handle,description,country-code
 216473,NET-HOST,Bashinskii Vadim Ruslanovich,KZ
 216474,AS-SERVERMANAGEMENTPANEL,Moritz Mantel trading as Nerdscave,DE
 216475,NKTELECOM,NKtelecom INC,US
+219054,NAKAMOTO-AS,Nakamoto LLP,KZ
+219055,AEINDRI,AEINDRI LIMITED,CY
+219056,PROGRESS-AS,PROGRESS LLC,RU
+219057,VILOONMOBI,Viloonmobi Limited,HK
+219058,MULTEDNET,Evgenii Lisovskii,RU
+219059,WEBER-AS,Jens Weber,DE
+219060,MIZBANI-MEHR-HAMIN,Mizbani Mehr Hamin PJSC,IR
+219061,FREETATO,Fritato Group Limited Liability Company,RU
+219062,NERA,Nera sp z.o.o,PL
+219063,NORSI-TRANS,CJSC NORSI-TRANS,RU
+219064,AKENAI-PRODUCTS-AS,Akenai Products LTD,GB
+219065,CYH-AS,CHENGYUAN HE,JP
+219066,KX712-SAS,KX712 SAS,FR
+219067,CHIARA-AS,Chiara Conti,IT
+219068,CORENETWORKTECH,Core Network Technologies Limited,HK
+219069,REUDNETZ,Reudnetz w.V.,DE
+219070,GBEVM,Eximia Networks Limited,GB
+219071,UPUPFLY,UPUP TECHNOLOGY LIMITED,HK
 219072,ALMASAR,AL MASAR AL RAQAMI COMPUTERS TRADING L.L.C,AE
 219073,CEMIL-CELIL-OZEL,cemil celil ozel,TR
 219074,FENECON-ASN,Fenecon GmbH,DE
@@ -100788,7 +100807,7 @@ asn,handle,description,country-code
 219485,ELFIBER-ASN,ELFIBER LLC,AZ
 219486,MYNYMBOX,Mynymbox LLC,US
 219487,TRIO-CLOUD-MNT,Trio Cloud Technologies LTD,IL
-219488,FIDELIR,Victor Tataru,MD
+219488,FIDELIR,Fidelir SRL,MD
 219489,AS-MZKNET,Zhengda Li,CN
 219490,GOELTZ-AS,Goeltz Yannik Valentin,DE
 219491,BERSHNET-AS-2,BershNet Ltd.,UA
@@ -123910,6 +123929,8 @@ asn,handle,description,country-code
 402853,CONTENT-CRITICAL-SOLUTIONS,Content Critical Solutions,US
 402854,RELCOMM-01,Rel Comm,US
 402855,MOONAL,Moonalgorithm LLC,US
+402856,BITFOO,BITFOO LLC,US
+402857,HTOCSL,Highland Trek Outdoor Camping Supplies LLC,US
 420042,INLIFEUSER,inlifeuser,KZ
 453620,SHAHRAM-TELECOM-PRIVATE,SHAHRAM TELECOM PRIVATE LIMITED,PK
 520022,TING-FIBER-INC,Ting Fiber Inc.,US

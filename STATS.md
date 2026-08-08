@@ -2,9 +2,9 @@
 
 | Origin | Count | New | Description |
 |:-------|------:|----:|:------------|
-| Authoritative | 119 393 | 46 | Metadata from authoritative sources |
+| Authoritative | 119 424 | 31 | Metadata from authoritative sources |
 | Overlaid | 97 | 0 | Enhanced with [manually curated data](https://github.com/ipverse/as-metadata) |
-| Inferred | 4 513 | 0 | Discovered from routing data |
+| Inferred | 4 514 | 1 | Discovered from routing data |
 | Missing | 12 | 0 | No metadata available |
 | | | | |
-| **Total** | **124 015** | **46** | |
+| **Total** | **124 047** | **32** | |

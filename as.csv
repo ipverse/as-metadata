@@ -39360,7 +39360,7 @@ asn,handle,description,country-code
 44436,TED,Toosee Ertebatat Damavand,IR
 44437,FORHOSTING,Angelo Kreikamp trading as Forhosting,NL
 44438,MT-AS,Muenchen Ticket GmbH,DE
-44439,TWO-HIP,2Hip Enterprises B.V.,NL
+44439,TWO-HIP,Deksel Enterprises B.V.,NL
 44440,ADGAR-POSTEPU,Real Estate Solutions Sp. z o.o.,PL
 44441,POSTMT-AS,SIA PostMet,LV
 44442,TELFORDWREKINCOUNCILAS,The Borough of Telford and Wrekin Council,GB
@@ -44363,7 +44363,7 @@ asn,handle,description,country-code
 49971,VALEX,PrJSC Valex,UA
 49972,FANHAB,NAMAVARAN e ASR e Novin Information Technology (FANHAB) Private Joint-Stock Co,IR
 49974,BODATA,Bo data ApS,DK
-49976,AREATS-NET,AREA DI RICERCA SCIENTIFICA E TECNOLOGICA DI TRIESTE - AREA SCIENCE PARK,IT
+49976,AREATS-NET,Area di Ricerca Scientifica e Tecnologica di Trieste - Area Science Park,IT
 49977,TOMICH,Company Tomich Ltd,RU
 49978,IXARIS,NIUM SYSTEMS UK LIMITED,GB
 49979,LAWIRELESS-AS,LA Wireless Srl,IT
@@ -59685,7 +59685,7 @@ asn,handle,description,country-code
 133368,NET3LINK-AS-AP,Net 3 Link,BD
 133369,NICPL-AS-AP,Netpoint IT & Communications Pvt. Ltd,PK
 133370,TODDENERGYLIMITED-AS-AP,TODD ENERGY LIMITED,NZ
-133371,IDNIC-SOKKALINK-NAP-ID,PT SOKKA TAMA FIBER,ID
+133371,IDNIC-SOKKAFIBER-NAP-ID,PT SOKKA TAMA FIBER,ID
 133372,INTERAPTUSLIMITED-AS-AP,Interaptus Limited,HK
 133373,CHINATELECOM-SHANDONG-JINAN-IDC,Jinan,CN
 133374,VERSANETWORKSINC-AS-AP,Versa Networks Inc,US
@@ -68820,7 +68820,7 @@ asn,handle,description,country-code
 142619,UIT-AS-AP,Ultrafast Information and Technology,BD
 142620,KAMBALA-AS-AP,Kambala Girls' School,AU
 142621,NPSPL-AS-AP,NPS,NP
-142622,DIL-AS-AP,Dream Information Laboratory,JP
+142622,DIL-AS-AP,Dream Information Laboratory LLC,JP
 142623,MOMOTATECH-AS-AP,Momota Technologies,BD
 142624,MS-IN-AS-AP,Morgan Stanley Management Service (Singapore) Pte. Ltd,SG
 142625,GBSPL-AS-AP,Gallagher Bassett Services Pty Ltd,AU
@@ -79927,7 +79927,7 @@ asn,handle,description,country-code
 153855,RNADS-AS-AP,RDNAKS NETWORK AND DATA SOLUTION,PH
 153856,SULTANHIZAMOPC-AS-AP,ZZNET,PH
 153857,IDNIC-SCI-AS-ID,PT Syaputra Capital Investama,ID
-153858,IDNIC-SOKKALINK-AS-ID,PT SOKKA TAMA FIBER,ID
+153858,IDNIC-SOKKAFIBER-AS-ID,PT SOKKA TAMA FIBER,ID
 153859,BIGSERVER-VN,BIGSERVER COMPANY LIMITED,VN
 153860,ONEPAY-VN,Onepay Online Service and Commercial Joint Stock Company,VN
 153861,NMBBANKLTD-AS-AP,NMB Bank Ltd.,NP
@@ -80878,6 +80878,10 @@ asn,handle,description,country-code
 154814,IBKVN-VN,Industrial Bank of Korea (Vietnam) Co. Ltd.,VN
 154815,UET-VNU-VN,University of Engineering and Technology - Vietnam National University of Hanoi,VN
 154816,SWIM-AS-AP,Swim Domain (Bee Online),BD
+154817,IDNIC-IDO-ID,PT. INTI DATA OPTIMA,ID
+154818,IDNIC-STARVISIONNET-ID,PT Geodig Teknologi Indonesia,ID
+154819,IDNIC-ELMI-ID,PT Ekanet Lintas Media Indonesia,ID
+154820,BZHOSTING-AS-AP,Bzhosting,BD
 171278,PUNTONET-SA,PUNTONET S.A.,EC
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
@@ -83252,7 +83256,7 @@ asn,handle,description,country-code
 199177,AS199177,Ssmidge Technologies,CA
 199178,MSYS-AS,Micro Systems Marc Balmer,CH
 199179,MAJOR,Major Cargo Service LLC,RU
-199180,LAGOM-NET,LAGOM PRODUCTS LLC,AM
+199180,LAGOM-NET,Lagom Products LLC,AM
 199181,ORAKOM,Orakom S.r.l.,IT
 199182,YOOX-ASN,YOOX S.P.A.,IT
 199183,ARJEN-ESSINK,Arjen Olaf Essink,NL
@@ -100393,6 +100397,23 @@ asn,handle,description,country-code
 216473,NET-HOST,Bashinskii Vadim Ruslanovich,KZ
 216474,AS-SERVERMANAGEMENTPANEL,Moritz Mantel trading as Nerdscave,DE
 216475,NKTELECOM,NKtelecom INC,US
+219003,HMTR,Hyundai Motor Turkiye Otomotiv Anonim Sirketi,TR
+219004,YN-NETWORKS,Yuvaraj Mudaliar,IN
+219005,NOVUM,NOVUM VENTURES LTD,GB
+219006,ARVATO,ARVATO LOJISTIK ANONIM SIRKETI,TR
+219007,SAMCOMPANY,Taik Sam Telecommunications and Trading L.L.C,SY
+219008,MAGNOHOST,Magnohost Provedora de Servicos Web LTDA,BR
+219009,NNT,UAB Nnt,LT
+219010,PROSTO-AS,Prosto Solution LLC,GE
+219011,MAGOONET,Giosue' Casagrande,IT
+219012,EENGEL,Eduard Engel,DE
+219013,SFF-TELECOM,Santiago Fernandez Fernandez,ES
+219014,BARNESMORGAN,Barnes & Morgan BV,BE
+219015,MAEVI-AS,Mae Vielle,CZ
+219016,ATELIER-MIKU,Zizhao Wang trading as Atelier Miku,CN
+219017,SENTA,SENTA CLOUD - FZCO,AE
+219018,GB-DUCKY,Droidhub LTD,GB
+219019,ETEBARSANJI-IRAN,Etebarsanji Iran PJSC,IR
 219020,PAYPLAYSOFT-AS,PAYPLAYSOFT LIMITED,CY
 219021,EXBONORTH-AS,Eksbo Sever LLC,RU
 219022,FREEVPN,FREE VPN GLOBAL LTD,GB

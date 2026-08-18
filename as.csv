@@ -28143,7 +28143,7 @@ asn,handle,description,country-code
 31440,DSK-AS,DSK Bank EAD,BG
 31441,GR-AS,Ljosleidarinn ehf,IS
 31444,SEANET-AS,SeaExpress Ltd.,RU
-31445,CLOUD-AS,Fiberax Networking&Cloud Ltd.,GB
+31445,CLOUD-AS,Fiberax sp. z o.o.,PL
 31446,BETANDWIN2-AS,Entain Services Austria GmbH,AT
 31447,SOFTRATING-AS,Soft-Rating Consult ltd.,UA
 31449,AS31449,BELCENTER SA,BE
@@ -38604,7 +38604,7 @@ asn,handle,description,country-code
 43532,BOURSEDIRECT,BOURSE DIRECT SA,FR
 43533,ASGALSTELECOM,OOO Gals Telecom,UZ
 43534,CREDITCALL,Network Merchants Limited,GB
-43535,TE-PL-AS,Tieto Poland Sp. z o.o.,PL
+43535,TE-PL-AS,Tieto Tech Consulting Poland Sp. z o.o.,PL
 43536,NEXTIRAONE-DE-AS,NTT Germany Holdings GmbH,DE
 43539,DRBSY,Roebuck Group Limited,GB
 43541,VSHOSTING,VSHosting s.r.o.,CZ
@@ -65452,6 +65452,7 @@ asn,handle,description,country-code
 139212,MBS-AS-AP,Modular Business Solutions,AU
 139213,HCSI-AS-AP,Hillview Cable Systems inc.,PH
 139214,CLOUD4X-AS-AP,Cloud4x Enterprise Systems Pty Ltd,AU
+139215,MTL-AS-AP,MARVEL TELECOM (PRIVATE) LIMITED,PK
 139216,HTROY-AS-AP,Tianhai InfoTech,CN
 139217,ROYALCAPITALLTD-AS-AP,Royal Capital Ltd,BD
 139218,JVCN-AS-AP,Jhelum Vision Cable Network,PK
@@ -78708,7 +78709,7 @@ asn,handle,description,country-code
 152614,ISTVC-EX-TW,IMPROVE SYSTEM TECHNOLOGY CO. LTD.,TW
 152615,CHUMMYMAIN-AS-TW,Chummy Technology Ltd.,TW
 152616,BHIS-AS-TW,BHIS Ltd.,TW
-152617,PPTECH,PPTECH co. ltd.,TW
+152617,HYPERNET,Hyper Network Technology LTD,TW
 152618,NOT-TFN-AS-TW,NOT-TFN-CO,TW
 152619,VERYFAST-AS-TW,Very Fast Network LTD,TW
 152620,AS-LINEPAY-TW,LINE Pay Taiwan Limited,TW
@@ -80898,9 +80899,12 @@ asn,handle,description,country-code
 154829,ISOLVEPTYLTD-AS-AP,isolve Pty Ltd,AU
 154830,IDNIC-EDIK-ID,PT Espay Debit Indonesia Koe,ID
 154831,GEGCL-AS-AP,Green Emperor Group Company LImited,MM
+154832,HALOCLOUD-AS-HK,HaloCloud Network Limited,HK
 154833,IDNIC-WIRAHASTAJITU-ID,PT WIRA HASTA JITU,ID
 154834,M1RACEICTINC-AS-AP,1RACE ICT INC.,PH
 154835,SILICON-AS-AP,SILICON BUSINESS SOLUTIONS PRIVATE LIMITED,IN
+154836,ONENETWORK-AS-AP,ONE NETWORK,BD
+154837,IRINN-IFTASNW1-AS-IN,Indian Financial Technology And Allied Services,IN
 171278,PUNTONET-SA,PUNTONET S.A.,EC
 196608,INTERNIC2,INTERNET AG Global Network,DE
 196609,PCS,PCS Professional Communication Systems GmbH,DE
@@ -81771,7 +81775,7 @@ asn,handle,description,country-code
 197662,NC2,XEFI ENGINEERING BY NC2 SAS,FR
 197663,POLANS,POLANS telekomunikacijske storitve d.o.o.,SI
 197665,SKPLAST,LLC CITY STROY,RU
-197666,STUDIO-TEN-OU,STUDIO TEN OU,EE
+197666,STUDIO-TEN-OU,STENCLOUD LLC,GE
 197667,FEROMEDIA-AS,Telekom System sp.z o.o.,PL
 197668,AKO-NET,Administration of the Governor and Government of the Kirov region,RU
 197669,CLOUDCALL-UK-AS,CloudCall LTD,GB
@@ -82766,7 +82770,7 @@ asn,handle,description,country-code
 198665,HARVEAST-AS,HarvEast Holding LLC,UA
 198666,INFO-ZONE-ISP,Information Zone Company For Internet & Computer Services - Ltd. Co.,IQ
 198667,RADIOC,JSC InterMedia,RU
-198668,TLAPNET,Tlapnet s.r.o.,CZ
+198668,TLAPNET-CZ,Tlapnet s.r.o.,CZ
 198669,KNET-AS,KNET TELECOM Ltd,RU
 198670,VYAZMAINFORMATIONNETWORK,Autonomous non-profit organization Vyazemsky information network,RU
 198671,ONE-ID-AS,One ID SAS,FR
@@ -88740,7 +88744,7 @@ asn,handle,description,country-code
 204663,DECIX-LEJ-AS,DE-CIX Management GmbH,DE
 204664,DBLC-AS,DBLC S.r.l.,IT
 204665,THREEDATA-AS,LLC 3data DC,RU
-204666,CZJIRITLAPAK,Jiri Tlapak,CZ
+204666,TLAPNET-CZ,Jiri Tlapak,CZ
 204667,WIFIGOMERA,Juan Ramon Jerez Suarez,ES
 204668,ASTANACZ,ASTANA Technologies s.r.o.,CZ
 204669,ISP-NETLABS-AS,NETLABS LLC,UA
@@ -97829,7 +97833,7 @@ asn,handle,description,country-code
 213833,DKIS-AS,Ministry of Interior of Bulgaria,BG
 213834,LLC-ROCKWELL-CAPITAL,LLC ROCKWELL CAPITAL,RU
 213835,SOLIDITY,Solidity Technology Services SA,GR
-213836,HAL-LU-AS,Hauck Aufhaeuser Lampe Privatbank AG,DE
+213836,HAL-LU-AS,ABN AMRO Bank N.V.,NL
 213837,GILAT-TELECOM-SATELLITE,Gilat Telecom Ltd.,IL
 213838,LD,Company AL-BAAD AL-AKHIR For Information Technology Ltd,SA
 213839,FRANK-SOLLI,FRANK SOLLI,NO
@@ -100416,6 +100420,20 @@ asn,handle,description,country-code
 216473,NET-HOST,Bashinskii Vadim Ruslanovich,KZ
 216474,AS-SERVERMANAGEMENTPANEL,Moritz Mantel trading as Nerdscave,DE
 216475,NKTELECOM,NKtelecom INC,US
+218938,POTUZHNO,Vasili Rytvinski,FI
+218939,SOUTH-SOLUTIONS,ahmad abuhatab,JO
+218940,KUMO2,Tealight Ltd,GB
+218941,FOELLMI,Foellmi ICT AG,CH
+218942,FIL-NET,EFEDUE JOSHUA NEYIN,NG
+218943,PRIMEEDGE,PrimeEdge Technology Innovations Limited,HK
+218944,OTNETVTEL-AS,OTNETvTEL Unipessoal Lda,PT
+218945,BYCODED,Bycoded Tecnologia LTDA,BR
+218946,OQNET-UZ-AS,ADA DIGITAL MCHJ,UZ
+218947,PRIENTEGROUP,Priente Software Yazilim Anonim Sirketi,TR
+218948,ANORBANK,JSC ANOR BANK,UZ
+218949,VESAL,VESAL UNIPESSOAL LDA,PT
+218950,VYTAL,VYTAL TECHNOLOGY LTD,GB
+218951,CLOUDCRAFT-AS,CloudCraft Ltd.,SC
 218952,HR-LINK-AS,Innovatsii v upravlenii kadrami LLC,RU
 218953,FIZYNET,Fizynet Telekomunikasyon ve Bilisim Hiz. Ltd. Sti.,TR
 218954,NETZONE,NETZONE Teknoloji ve Savunma Sanayi Ticaret Anonim Sirketi,TR
@@ -123764,7 +123782,7 @@ asn,handle,description,country-code
 402506,ZENIX,Zenixcloud Inc,US
 402507,NETWORKOLOGY,Networkology LLC,US
 402508,AIRBIT,Airbit Tech LLC,US
-402509,NET-BROBAW,Erobaw Inc,US
+402509,NET-BROBAW,Erobaw Inc,TW
 402510,ESSYSS-NETWORK,Essyss Inc,US
 402511,XPEER,XPEERS INC,US
 402512,ONE-CLICK-TELECOM,1 CLICK 2022 TELECOMMUNICATION COMPANY LLC,US
@@ -124110,7 +124128,7 @@ asn,handle,description,country-code
 402852,TERRANETUS,TerraNet US,US
 402853,CONTENT-CRITICAL-SOLUTIONS,Content Critical Solutions,US
 402854,RELCOMM-01,Rel Comm,US
-402855,MOONAL,Moonalgorithm LLC,US
+402855,MOONAL,Moonalgorithm LLC,PH
 402856,BITFOO,BITFOO LLC,US
 402857,HTOCSL,Highland Trek Outdoor Camping Supplies LLC,US
 402858,AS-FBRWV-001,Fiberwave Technologies LLC,US

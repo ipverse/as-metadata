@@ -12150,7 +12150,7 @@ asn,handle,description,country-code
 13339,ONGAME-SERVICES-AB,Ongame Services AB,SE
 13340,RIML-CORP-AS-3,BlackBerry Limited,CA
 13341,TRANQUILITY,Tranquility Internet Services Inc.,US
-13342,AT-T-SERVICES-INC,AT&T Services Inc.,US
+13342,AT-T-ENTERPRISES-LLC,AT&T Enterprises LLC,US
 13343,TWC-13343-CHARLOTTE,Charter Communications Inc,US
 13344,NETEX-INC,NetEx Inc.,US
 13345,MASSIVE-NETWORKS-13345,Massive Networks Inc.,US
@@ -18540,7 +18540,7 @@ asn,handle,description,country-code
 20268,BAKERPH,Baker College,US
 20269,VAIL-SCHOOL-DISTRICT-1,Vail School District,US
 20270,CLEARSKY-SYSTEMS-INC,FIELD COMMUNICATIONS INC.,US
-20271,SECUREWEBS-INC,SECUREWEBS INC,US
+20271,EASTMAN-CHEMICAL-COMPANY,Eastman Chemical Company,US
 20272,AS-BTVC,Bluewater TV Cable Limited,CA
 20273,WEBSTER-CALHOUN-ASN,WCCTA,US
 20274,FVCC-AS,Flathead Valley Community College,US
@@ -58476,7 +58476,7 @@ asn,handle,description,country-code
 132127,CLOUDPEOPLE-SYD-AS-AP,Cloud People Pty Ltd,AU
 132128,ARRISGROUP-NET-AP,ARRIS Group Inc,US
 132129,SYSLAND-AS-AP,Sysland Speed Online Network,BD
-132130,TRIKO-AS-AP,TRIKO SECURITY LIMITED,NZ
+132130,TRIKO-AS-AP,Triko Security Limited,NZ
 132131,MEDIBANK-AS-AP,Medibank Private Ltd,AU
 132132,REPUBLICTELECOM-SG,Republic Telecom,SG
 132133,SB-FURNITURE-AS-AP,SB.Furniture House Co. Ltd,TH
@@ -64014,7 +64014,7 @@ asn,handle,description,country-code
 137742,PICCNET,PICC Property and Casualty Company Limited,CN
 137743,QUANTUM-INTERCONNECTION,Quantum interconnection (Beijing) network communication co. LTD,CN
 137744,CJCA,ChangJiang Communications Administration,CN
-137745,ID-NIC,ID-NIC,XX
+137745,CHINA-INTERNET-NETWORK,China Internet Network Information Center,XX
 137746,ID-NIC,ID-NIC,US
 137747,CHIJUN,Beijing Chijun Network Advisory Service Co Ltd,CN
 137748,DFM,Dongfeng Communication Technology Co. Ltd.,CN
@@ -83882,7 +83882,7 @@ asn,handle,description,country-code
 199752,GO-TREX,Go-Trex Holding BV,NL
 199753,UDMEDIA-AS,UD Media GmbH,DE
 199754,PFEFFER-AS,Adrian Pfeffer trading as DUKLANA IT e.U.,AT
-199755,ACDN-AS,ACDN LLC,UZ
+199755,ALLMEDIA-AS,ACDN LLC,UZ
 199756,DPWORLDBE,DP World Antwerp Ports & Terminals NV,BE
 199757,KSENIOS-RP,Euronext Athens Holding S.A.,GR
 199758,NEXYLAN,SAS Nexylan,FR
@@ -89056,7 +89056,7 @@ asn,handle,description,country-code
 204941,TGS-AS,LLC Tsentralnaya Gorodskaya Set,RU
 204942,MIFINORX-AS,MIFINORX LTD,GB
 204943,NTVCABLE,NTV cable s.r.o.,CZ
-204944,BMLB,Lukas Winter,AT
+204944,LUKNET,Lukas Winter,AT
 204945,D4T4,Celebrus Technologies plc,GB
 204946,GUFFNET,ABSOLUTE GUFF LTD,GB
 204947,SPEED-NET-SRL,SPEED-NET S.R.L,IT
@@ -120967,7 +120967,7 @@ asn,handle,description,country-code
 399543,BAKER-ROYALOAK,Baker College,US
 399544,PEOPLENTECH-LLC,PeopleNTech LLC,US
 399545,CCTC-ASN1,Coleman County Telephone Cooperative Inc.,US
-399546,CHINA-INTERNET-NETWORK,China Internet Network Information Center,AU
+399546,ASIA-PACIFIC-NETWORK,Asia Pacific Network Information Center Pty. Ltd.,AU
 399547,BOARD-OF-ELECTIONS-IN-THE-CITY-OF-NEW-YORK-ENR,Board of Elections in the City of New York,US
 399548,SALT-IXP,SALT,KY
 399549,AMS-MULTIHOME-01,Access Management Services LLC,US
@@ -124269,7 +124269,7 @@ asn,handle,description,country-code
 402898,PPFLIGHT,ppflight digital LLC,US
 402899,PTLHL,Prestige Travel Luggage House LLC,US
 402900,COS-DC-ASN-01,City of Surprise,US
-402901,AS-BOXCLOUD-CANADA-02,TECHPEAK NETWORK LTD,CA
+402901,AS-BOXCLOUD-02,TECHPEAK NETWORK LTD,CA
 402902,JC-FLOAT-01,Jason Couture Sole Proprietorship,US
 402903,RHEC-ASN,Roanoke Higher Education Center,US
 402904,PVSSL,Prime Voyage Suitcase Supply LLC,US

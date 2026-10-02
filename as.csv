@@ -8088,7 +8088,7 @@ asn,handle,description,country-code
 8692,BRZ,Bundesrechenzentrum GmbH,AT
 8694,RET-AS,Rotterdamse Electrische Tram N.V.,NL
 8695,KS-IX-AS,Private Enterprise Law Firm Status,UA
-8696,AS8696-ONE-HU,Invitech ICT Services Kft.,HU
+8696,AS8696-ONE-HU,One Hungary Ltd.,HU
 8697,JTC-AS8697,Jordan Telecommunications PSC,JO
 8698,NATIONWIDE-BUILDING-SOCIETY,NATIONWIDE BUILDING SOCIETY,GB
 8699,FIBERWAVES-AS,Fiberwaves S.A.L,LB
@@ -11465,7 +11465,7 @@ asn,handle,description,country-code
 12296,ADANET-TR,ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.,TR
 12297,TELECOM-ARMENIA,Telecom Armenia OJSC,AM
 12298,QIAGEN-AS,QIAGEN GmbH,DE
-12301,INVITECH,Invitech ICT Services Kft.,HU
+12301,INVITECH,One Hungary Ltd.,HU
 12302,VODAFONE-RO,Vodafone Romania S.A.,RO
 12303,ISZT-AS,Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyos Egyesulet,HU
 12305,NORTENET,G9 S.A.,PT
@@ -18775,7 +18775,7 @@ asn,handle,description,country-code
 20519,BALTNET,PJSC Rostelecom,RU
 20521,ASN-BELLNET,Bellnet Limited,MT
 20522,SEEWEB-BACKUP,SEEWEB s.r.l.,IT
-20523,INVITECH-ICT-SERVICES-KFT,Invitech ICT Services Kft.,HU
+20523,INVITECH-ICT-SERVICES-KFT,2Connect Telecommunications Infrastructure & Network Services Ltd.,HU
 20524,INEXESS-ASN,SC Inexess Team Agency SRL,RO
 20526,INTEREUROPA-AS,Intereuropa d.d.,SI
 20527,GARANT-AS,Garant-Telecom Ltd.,RU
@@ -19027,7 +19027,7 @@ asn,handle,description,country-code
 20918,PI-AS,CENIT PI Informatik GmbH,DE
 20919,DF,DataFort LLC,RU
 20921,AMENA-AS,Orange Espagne SA,ES
-20922,DW-AS,Invitech ICT Services Kft.,HU
+20922,DW-AS,2Connect Telecommunications Infrastructure & Network Services Ltd.,HU
 20924,LUTECH-ICTEAM,LUTECH S.P.A.,IT
 20926,PULSATION-AS,Celeste SAS,FR
 20928,NOOR-AS,The Noor Group,EG
@@ -19295,7 +19295,7 @@ asn,handle,description,country-code
 21327,H3GUKNIE,Hutchison 3G UK Limited,GB
 21328,NBP-AS,National Bank of Poland,PL
 21330,AVE-AS,FOP EFREMOV ANATOLIY VLADISLAVOVYCH,UA
-21331,OKDN-AS,Oslo kommune Utviklings- og kompetanseetaten,NO
+21331,OKDN-AS,Oslo kommune Digitaliseringsetaten,NO
 21332,NTC-AS,PJSC Vimpelcom,RU
 21333,INVA-AS,IN.VA. S.p.A.,IT
 21334,ASN-ONE-HU,2Connect Telecommunications Infrastructure & Network Services Ltd.,HU
@@ -30926,7 +30926,7 @@ asn,handle,description,country-code
 34582,VORONEZHSIGNAL-AS,Voronezh-Signal LLC,RU
 34584,KHBDSV,PJSC Rostelecom,RU
 34587,HLM2-AS,Hillside (Technology) Ltd,GB
-34588,FIBERNET-HU-AS,Invitech ICT Services Kft.,HU
+34588,FIBERNET-HU-AS,2Connect Telecommunications Infrastructure & Network Services Ltd.,HU
 34589,IFAO-BG-AS,Amadeus Sofia Labs Ltd,BG
 34590,IZHEVSK-AS,JSC ER-Telecom Holding,RU
 34591,SIGINT,havel:lab e.V.,DE
@@ -53177,7 +53177,7 @@ asn,handle,description,country-code
 59745,ATLASEDGE,AE Technology Services Germany GmbH,DE
 59746,ABRITES-AS,ABRITES LTD.,BG
 59747,NIX-DR,NIX.CZ z.s.p.o.,CZ
-59748,KPMS,Kaiser Partner Management Services Anstalt,LI
+59748,KPMS,Kaiser Beteiligungen Anstalt,LI
 59750,HOLCK,Anders Holck,SE
 59752,JPRU-AS,JPRU Services & Consulting GmbH,DE
 59754,BIM,Bank of Industry and Mine PJSC,IR
@@ -90188,7 +90188,7 @@ asn,handle,description,country-code
 205896,TODD-COMMUNICATION,TODD COMMUNICATION CONSULTANCY LTD,GB
 205897,HOSTOWEB,HOSTOWEB LTD,GB
 205898,TDCPALOS,Television Cable Digital S.L.,ES
-205899,PAPILIOHOST,Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC,IR
+205899,HAMIDVAFAEI,Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC,IR
 205900,APC-SOLUTIONS,APC Solutions UK Ltd,GB
 205901,RUSK-AS,Evgenii Diakov,GE
 205902,ALUKOENIG,Alu Koenig Stahl GmbH,AT
@@ -92127,7 +92127,7 @@ asn,handle,description,country-code
 207847,CLOUDBLAST,CloudBlast LLC,US
 207848,MKONLINE-AS,FOP Kolesov K.O.,UA
 207849,ESIEESPACE,ESIEESPACE,FR
-207850,USTINET-AS,HovNet-SERVIS s.r.o.,CZ
+207850,OGARDATA-AS,HovNet-SERVIS s.r.o.,CZ
 207851,FARA,Fara AS,NO
 207852,Y525-NETWORK,Yonghan Ching,MY
 207853,NPO-UNIMACH-AS,NPO Unimach LLC,RU
@@ -100641,6 +100641,13 @@ asn,handle,description,country-code
 216473,NET-HOST,Bashinskii Vadim Ruslanovich,KZ
 216474,AS-SERVERMANAGEMENTPANEL,Moritz Mantel trading as Nerdscave,DE
 216475,NKTELECOM,NKtelecom INC,US
+218525,HERTZTELECOM,Hertz Telecom LLC,AZ
+218526,UPLINK-LLC,Uplink LLC,AZ
+218527,IGORS-AS,Igors Cernavskis,LV
+218528,RCS-TECH-PROJECTS,RCS Technologies FZE LLC,AE
+218529,FQUADRAT-AS,f-quadrat IT GmbH,DE
+218530,MASSIVEMAKER,Massive Maker sp. z o.o.,PL
+218531,WSD-AS-UK,WallStreetDocs Ltd,GB
 218532,JEMMTEC,Jemmtec EAD,BG
 218533,TMGAMES,Tmgames Oyun Yazilim Teknoloji ve Pazarlama Limited Sirketi,TR
 218534,EIDETIC,Eidetic SAS,FR
@@ -100698,7 +100705,7 @@ asn,handle,description,country-code
 218586,UK-ZOHOCORPORATION,ZOHO Corporation B.V,NL
 218587,FL456-AS,FLARELABS LTD,GB
 218588,YD-AS,Yurii Diachenko,UA
-218589,DATAPATH-ASN,Jan Benes,CZ
+218589,NOVERIC-AS,Jan Benes,CZ
 218590,LD1,David Lowes,IL
 218591,BYTEHOST,Aaron Janssen,DE
 218592,VAMP-NETWORK,Impact Trading & Consulting GmbH,CH
@@ -100867,7 +100874,7 @@ asn,handle,description,country-code
 218755,EASYWEB-AS,Easyweb Bt.,HU
 218756,CH-ZG-BBCS,Kanton Zug,CH
 218757,MYCHEAPHOST,MYCHEAP LTD,GB
-218758,CATBOY,Lewis Brown,GB
+218758,AZZURRI,Lewis Brown,GB
 218759,HGK,Hrvatska gospodarska komora,HR
 218760,ETC-HOSTING,ETC IT AB,SE
 218761,EXPERIAN-LD5-LD8,Experian International Unlimited,GB
@@ -100911,7 +100918,7 @@ asn,handle,description,country-code
 218799,LITE-DIGITAL,LITE DIGITAL LTD,GB
 218800,SKYLINE,Skyline Quantum Data Systems Limited,HK
 218801,NETARMOR-AE,NetArmor Software Design L.L.C,AE
-218802,NSHIELD,Northshield LLC,US
+218802,NORTHSHIELD,Northshield LLC,US
 218803,GOUNDETECTED-AS,Techlexity Myroslav Koval,PL
 218804,MAHMOOD-ALTHAWADI,Mahmood Althawadi,BH
 218805,MEDIBUDDY-UK,Medibuddy LTD,GB

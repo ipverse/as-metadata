@@ -148,7 +148,7 @@ asn,handle,description,country-code
 |---|---|
 | `authoritative` | From authoritative source |
 | `inferred` | Inferred from routing information; may be inaccurate |
-| `overlaid` | Metadata overlay from [as-overlay](https://github.com/ipverse/as-overlay) applied |
+| `overlaid` | Curated correction applied over missing or wrong registry data |
 | `none` | No metadata available |
 
 ## AS category and network role
@@ -167,7 +167,7 @@ Classifies the primary function of an autonomous system.
 
 `null` when unclassified.
 
-Categorization is based on multiple signals and reflects the AS's *primary* function. It won't always be correct — many networks defy clean categorization (e.g. an ISP that also runs a hosting business, or a university with its own transit infrastructure). Take it as a useful default, not gospel. An overlay mechanism for user-supplied corrections may be added in the future.
+Categorization is based on multiple signals and reflects the AS's *primary* function. It won't always be correct — many networks defy clean categorization (e.g. an ISP that also runs a hosting business, or a university with its own transit infrastructure). Take it as a useful default, not gospel.
 
 ### Network role
 
@@ -218,10 +218,6 @@ print(data[4711]['metadata']['description'])  # INTEC Inc.
 - Building dashboards or monitoring tools
 - Offline lookups (no API rate limits to deal with)
 - Pretty much anything where you need to map ASNs to operators
-
-## Related projects
-
-- **[as-overlay](https://github.com/ipverse/as-overlay)**: Autonomous system metadata overlays that supplement and enhance the authoritative data in this repository. When overlay data is applied, entries will have an `origin` value of `overlaid` in the JSON format.
 
 ## Questions or issues?
 

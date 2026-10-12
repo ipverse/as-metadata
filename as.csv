@@ -64107,6 +64107,7 @@ asn,handle,description,country-code
 137868,SIS-AS-AP,Star Internet Service,BD
 137869,HMDSATU-AS-AP,Hajee Mohammad Danesh Science and Technology University,BD
 137870,IHNET-AS-AP,IHNetworks LLC,US
+137871,FCE-AS-AP,Friends Communication Enterprise,BD
 137872,PEOPLESPHONE-HK,China Mobile Hong Kong Company Limited,HK
 137873,STIL-AS-AP,Soft Tech Innovation Ltd.,BD
 137874,IDNIC-PELOPORDESAINTERNET-ID,PT Fajar Solutions Network,ID
@@ -67362,6 +67363,7 @@ asn,handle,description,country-code
 141153,LCXHK-AS-AP,LCX International Technology Co. Limited,HK
 141154,IFOSOURCEBROADBANDINTERNET-AS-AP,Ifosource Broadband Internet,BD
 141155,OUR1-AS-AP,Our Online,BD
+141156,ALORONONLINE-AS-AP,Aloron Online,BD
 141157,GUANGXI-TELECOM-NANNING-WUXIANGYUANYANG-IDC,China Telecom,CN
 141158,HSB-AS-AP,HIERO7 (M) SDN. BHD.,MY
 141159,INCOMPARABLEHKNET-AS-AP,Incomparable(HK)Network Co. Limited,HK
@@ -98613,7 +98615,7 @@ asn,handle,description,country-code
 214429,SEVER-TELECOM-YAR,Sever Telecom JSC,RU
 214430,XRONOS,Takahiro Fukushima,JP
 214431,MAHANCLOUD,Mizban Gostar Dade Alvand Ltd,IR
-214432,ZLIDC,Zhilian Technology CO. LTD.,GB
+214432,NTT-COMMUNICATIONS-CORPORATION,Zhilian Technology CO. LTD.,GB
 214433,BG-INTERCITYNET,Intercity Network EOOD,BG
 214434,TWINSTAKE,Twinstake Limited,KY
 214435,MINERVA-AS,PAOLO RECAGNO trading as Minerva Communications SNC,IT

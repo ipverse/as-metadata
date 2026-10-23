@@ -23020,7 +23020,7 @@
     "lastAnnounced": null
   },{
     "asn": 4866,
-    "metadata": {"handle": "POLYVORE", "description": "Yahoo Holdings Inc.", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2012-09-19", "lastModified": null},
+    "metadata": {"handle": "YAHOO-POLYV", "description": "Yahoo Holdings Inc.", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2012-09-19", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -31460,7 +31460,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 6649,
-    "metadata": {"handle": "HYAK", "description": "Hyak", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-01-17", "lastModified": "2026-08-01"},
+    "metadata": {"handle": "CORE-FIBER", "description": "Hyak", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-01-17", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 5, "prefixesAggregated": 5, "largestPrefix": 22, "totalAddresses": 2304}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [397301], "customers": 1, "peers": 0, "unclassified": 0, "degree": 2, "reach": 1}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -38980,7 +38980,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 8279,
-    "metadata": {"handle": "ASSTRATEGIYA", "description": "Novaya Strategia Ltd.", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2016-10-07", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "ASSTRATEGIYA", "description": "JSC PRODUCTION ASSOCIATION ALTAI TYRE PLANT", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2016-10-07", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 23, "totalAddresses": 512}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [50928], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-08-23"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -86830,7 +86830,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 19071,
-    "metadata": {"handle": "MATCHCOM", "description": "Match Group LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2007-10-15", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "MATCHGROUP", "description": "Match Group LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2007-10-15", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 6, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 1536}, "ipv6": null, "connectivity": {"providers": 4, "providerAsns": [3356, 6461, 13335, 15164], "customers": 0, "peers": 0, "unclassified": 0, "degree": 4, "reach": 0}, "prefixesLastModified": "2026-08-28"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -93710,7 +93710,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 20474,
-    "metadata": {"handle": "NCIDATACOM", "description": "NCI Data.com Inc.", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2001-05-11", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "CORE-FIBER", "description": "NCI Data.com Inc.", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2001-05-11", "lastModified": "2026-10-23"},
     "stats": {"ipv4": null, "ipv6": null, "connectivity": {"providers": 2, "providerAsns": [174, 22608], "customers": 0, "peers": 0, "unclassified": 0, "degree": 2, "reach": 0}, "prefixesLastModified": "2026-10-08"},
     "lastAnnounced": "2026-10-06"
   },{
@@ -153515,7 +153515,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 34303,
-    "metadata": {"handle": "BELRTS-AS-2", "description": "Regional TeleSystem Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2004-12-13", "lastModified": null},
+    "metadata": {"handle": "BELRTS", "description": "BELRTS Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2004-12-13", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -160205,7 +160205,7 @@
     "lastAnnounced": null
   },{
     "asn": 35970,
-    "metadata": {"handle": "GCL-184-35970", "description": "2Guys Colo LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2019-06-07", "lastModified": null},
+    "metadata": {"handle": "GCL-184-35970", "description": "Bunting Legacy LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2019-06-07", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -185157,7 +185157,7 @@
     "asn": 41626,
     "metadata": {"handle": "DEMENIN-BV", "description": "DEMENIN B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "inferred", "category": null, "networkRole": null, "registered": null, "lastModified": "2026-10-22"},
     "stats": {"ipv4": {"prefixes": 2, "prefixesAggregated": 1, "largestPrefix": 22, "totalAddresses": 1024}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [32217], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-10-22"},
-    "lastAnnounced": null
+    "lastAnnounced": "2026-10-21"
   },{
     "asn": 41627,
     "metadata": {"handle": "ASPICKUPNET", "description": "Pick-Up Ltd.", "countryCode": "HU", "country": "Hungary", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2006-09-26", "lastModified": "2026-03-04"},
@@ -193120,7 +193120,7 @@
     "lastAnnounced": null
   },{
     "asn": 43545,
-    "metadata": {"handle": "TELEDATA", "description": "Teledata UK Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2007-08-20", "lastModified": "2026-10-03"},
+    "metadata": {"handle": "TELEDATA", "description": "Datum Datacentres Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "hosting", "networkRole": "access_provider", "registered": "2007-08-20", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 17, "prefixesAggregated": 10, "largestPrefix": 20, "totalAddresses": 11776}, "ipv6": {"prefixes": 2, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 5, "providerAsns": [174, 3257, 3356, 6461, 51048], "customers": 2, "peers": 10, "unclassified": 2, "degree": 19, "reach": 2}, "prefixesLastModified": "2026-09-23"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -209210,7 +209210,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 47166,
-    "metadata": {"handle": "BELRTS-AS-3", "description": "Regional TeleSystem Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2008-05-07", "lastModified": null},
+    "metadata": {"handle": "BELRTS-AS-3", "description": "BELRTS Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2008-05-07", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -220135,7 +220135,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 49585,
-    "metadata": {"handle": "COREROUTE-AS", "description": "CoreRoute UG", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2023-02-10", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "COREROUTE-AS", "description": "CoreRoute UG (haftungsbeschraenkt)", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2023-02-10", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 5, "prefixesAggregated": 4, "largestPrefix": 23, "totalAddresses": 1280}, "ipv6": {"prefixes": 7, "prefixesAggregated": 6, "largestPrefix": 47, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 4, "providerAsns": [5405, 24961, 58299, 213753], "customers": 1, "peers": 68, "unclassified": 6, "degree": 79, "reach": 1}, "prefixesLastModified": "2026-09-09"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -220815,7 +220815,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 49738,
-    "metadata": {"handle": "NETROX-AS", "description": "3nt solutions LLP", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2022-04-22", "lastModified": null},
+    "metadata": {"handle": "NX-AS", "description": "3nt solutions LLP", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2022-04-22", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -221840,7 +221840,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 49963,
-    "metadata": {"handle": "BELRTS-AS", "description": "Regional TeleSystem Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2009-10-19", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "BELRTS", "description": "BELRTS Ltd", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2009-10-19", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 5, "prefixesAggregated": 5, "largestPrefix": 22, "totalAddresses": 3584}, "ipv6": null, "connectivity": {"providers": 3, "providerAsns": [3216, 8641, 43727], "customers": 1, "peers": 18, "unclassified": 0, "degree": 22, "reach": 1}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -233765,7 +233765,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 52577,
-    "metadata": {"handle": "VIANNA-MEHL-SERVICOS", "description": "Vianna Mehl Serviços de Telecomunicações Voip Ltda", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2013-02-22", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "VIANNA-MEHL-SERVICOS", "description": "WS SERVICOS DE TELECOMUNICACAO VOIP LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2013-02-22", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 14, "prefixesAggregated": 1, "largestPrefix": 21, "totalAddresses": 2048}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [262847], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-05-28"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -237795,7 +237795,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 53536,
-    "metadata": {"handle": "PRINETIME", "description": "Prinetime Internet Solutions LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2010-06-04", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "CORE-FIBER", "description": "Prinetime Internet Solutions LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2010-06-04", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 2, "prefixesAggregated": 2, "largestPrefix": 21, "totalAddresses": 3072}, "ipv6": null, "connectivity": {"providers": 2, "providerAsns": [6461, 25899], "customers": 1, "peers": 0, "unclassified": 0, "degree": 3, "reach": 1}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -281980,7 +281980,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 63304,
-    "metadata": {"handle": "HILLTOP-BROADBAND", "description": "HILLTOP BROADBAND", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2014-11-14", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "CORE-FIBER", "description": "HILLTOP BROADBAND", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2014-11-14", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 9, "prefixesAggregated": 5, "largestPrefix": 22, "totalAddresses": 2048}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [174], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -286026,6 +286026,11 @@
   },{
     "asn": 64183,
     "metadata": {"handle": "PIT-ARGENTINA-SOLUTIONS", "description": "PIT ARGENTINA SOLUTIONS S.A.", "countryCode": "AR", "country": "Argentina", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-08-18", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 64184,
+    "metadata": {"handle": "PUNTO-INTERCAMBIO-TRAFICO", "description": "PUNTO DE INTERCAMBIO DE TRAFICO IXP AMAZONICO S.A.", "countryCode": "EC", "country": "Ecuador", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -309395,7 +309400,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 135610,
-    "metadata": {"handle": "IDNIC-BERSAMANET-ID", "description": "PT. Tower BErsama", "countryCode": "ID", "country": "Indonesia", "origin": "authoritative", "category": null, "networkRole": null, "registered": null, "lastModified": null},
+    "metadata": {"handle": "IDNIC-BERSAMANET-ID", "description": "PT Tower Bersama", "countryCode": "ID", "country": "Indonesia", "origin": "authoritative", "category": null, "networkRole": null, "registered": null, "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -405640,7 +405645,7 @@
     "lastAnnounced": null
   },{
     "asn": 155022,
-    "metadata": {"handle": "INSERVNETWORK-AS-AP", "description": "INSERV NETWORK", "countryCode": "PH", "country": "Philippines", "origin": "authoritative", "category": null, "networkRole": null, "registered": null, "lastModified": null},
+    "metadata": {"handle": "INSERVNETWORK-AS-AP", "description": "INSERV NETWORK", "countryCode": "PH", "country": "Philippines", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": null, "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -405731,6 +405736,31 @@
   },{
     "asn": 155040,
     "metadata": {"handle": "IRINN-NSPL-INDSNVQ-AS-IN", "description": "NEBERO SYSTEMS PRIVATE LIMITED", "countryCode": "IN", "country": "India", "origin": "authoritative", "category": "business", "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 155041,
+    "metadata": {"handle": "HUMENG-SG-AS-AP", "description": "Humeng Technology International Co. Limited", "countryCode": "HK", "country": "Hong Kong SAR China", "origin": "authoritative", "category": "business", "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 155042,
+    "metadata": {"handle": "IRINN-FBSPLS-AS-IN", "description": "FASTEDGE BROADBAND SERVICES PRIVATE LIMITED", "countryCode": "IN", "country": "India", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 155043,
+    "metadata": {"handle": "IRINN-NSPL-IN-AS-IN", "description": "Neat Systems Private Limited", "countryCode": "IN", "country": "India", "origin": "authoritative", "category": "business", "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 155044,
+    "metadata": {"handle": "IDNIC-GRYADATA-ID", "description": "PT Grya Data Indonesia", "countryCode": "ID", "country": "Indonesia", "origin": "authoritative", "category": null, "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 155045,
+    "metadata": {"handle": "IRINN-SBPL-IND-AS-IN", "description": "SPEEDPLUS BROADBAND PRIVATE LIMITED", "countryCode": "IN", "country": "India", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": null, "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -410050,7 +410080,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 197659,
-    "metadata": {"handle": "FWP-AS", "description": "Funkwerk Beteiligungs GmbH", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2011-03-16", "lastModified": "2026-08-13"},
+    "metadata": {"handle": "FWP-AS", "description": "Funkwerk Security Solutions GmbH", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2011-03-16", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 2, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 1280}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 29, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [8767], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -413635,7 +413665,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 198382,
-    "metadata": {"handle": "FIRSTEASY-AS", "description": "Teledata UK Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2012-01-04", "lastModified": null},
+    "metadata": {"handle": "FIRSTEASY-AS", "description": "Datum Datacentres Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "hosting", "networkRole": null, "registered": "2012-01-04", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -431260,7 +431290,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 201923,
-    "metadata": {"handle": "CONCUR-PAR", "description": "Concur (France) SAS", "countryCode": "FR", "country": "France", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2018-06-26", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "SAP-CONCUR", "description": "SAP SE", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": null, "networkRole": "stub", "registered": "2018-06-26", "lastModified": "2026-03-04"},
     "stats": null,
     "lastAnnounced": "2026-04-26"
   },{
@@ -432285,7 +432315,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 202128,
-    "metadata": {"handle": "FJORDANE-IT", "description": "ITEAM NORGE AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2014-11-26", "lastModified": "2026-09-09"},
+    "metadata": {"handle": "FJORDANE-IT", "description": "Kleri Norge AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2014-11-26", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 5, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 2048}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 29, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 3, "providerAsns": [2119, 31169, 35132], "customers": 0, "peers": 0, "unclassified": 0, "degree": 3, "reach": 0}, "prefixesLastModified": "2026-06-18"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -439460,7 +439490,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 203568,
-    "metadata": {"handle": "AIRBAND", "description": "Airband Community Internet Ltd", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "isp", "networkRole": "content_network", "registered": "2015-12-09", "lastModified": "2026-10-12"},
+    "metadata": {"handle": "AIRBAND", "description": "Acil Realisations 2 Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "isp", "networkRole": "content_network", "registered": "2015-12-09", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 7, "prefixesAggregated": 5, "largestPrefix": 22, "totalAddresses": 4096}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 29, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [1299], "customers": 0, "peers": 601, "unclassified": 2, "degree": 604, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -439870,7 +439900,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 203650,
-    "metadata": {"handle": "FUNN-NO", "description": "ITEAM NORGE AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-11-25", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "FUNN-NO", "description": "Kleri Norge AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-11-25", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 21, "totalAddresses": 2048}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [50304], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -440725,7 +440755,7 @@
     "lastAnnounced": "2026-04-06"
   },{
     "asn": 203823,
-    "metadata": {"handle": "FJORDANEIT-ITEAM10", "description": "ITEAM NORGE AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-10-22", "lastModified": "2026-09-09"},
+    "metadata": {"handle": "FJORDANEIT-ITEAM10", "description": "Kleri Norge AS", "countryCode": "NO", "country": "Norway", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-10-22", "lastModified": "2026-09-09"},
     "stats": null,
     "lastAnnounced": "2026-06-16"
   },{
@@ -441755,7 +441785,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 204030,
-    "metadata": {"handle": "SERAC-NL", "description": "Serac Applications B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-09-10", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "SERAC-NL", "description": "Aiden Netherlands B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2015-09-10", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 3, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 2048}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 29, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 3, "providerAsns": [8455, 9150, 57866], "customers": 0, "peers": 0, "unclassified": 0, "degree": 3, "reach": 0}, "prefixesLastModified": "2026-08-06"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -446105,7 +446135,7 @@
     "lastAnnounced": "2026-07-04"
   },{
     "asn": 204902,
-    "metadata": {"handle": "MARITIK", "description": "XIWO CLOUD SAS", "countryCode": "FR", "country": "France", "origin": "authoritative", "category": "hosting", "networkRole": "stub", "registered": "2022-05-31", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "MARITIK", "description": "MARITIK SASU", "countryCode": "FR", "country": "France", "origin": "authoritative", "category": null, "networkRole": "stub", "registered": "2022-05-31", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 6, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 1280}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 48, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [202753], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-08-28"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -454285,7 +454315,7 @@
     "lastAnnounced": null
   },{
     "asn": 206553,
-    "metadata": {"handle": "HIKMA", "description": "Hikma Pharmaceuticals LLC", "countryCode": "JO", "country": "Jordan", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2016-12-21", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "HIKMA", "description": "Al-Hikma Pharmaceuticals LLC", "countryCode": "JO", "country": "Jordan", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2016-12-21", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 4, "prefixesAggregated": 1, "largestPrefix": 22, "totalAddresses": 1024}, "ipv6": null, "connectivity": {"providers": 2, "providerAsns": [8376, 50670], "customers": 0, "peers": 0, "unclassified": 0, "degree": 2, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -471060,7 +471090,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 209934,
-    "metadata": {"handle": "ZLINE", "description": "WIERER GmbH & Co KG", "countryCode": "AT", "country": "Austria", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2018-11-07", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "ZLINE", "description": "Wierer GmbH", "countryCode": "AT", "country": "Austria", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2018-11-07", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 2, "prefixesAggregated": 2, "largestPrefix": 22, "totalAddresses": 1280}, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 29, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 2, "providerAsns": [8412, 31543], "customers": 0, "peers": 0, "unclassified": 0, "degree": 2, "reach": 0}, "prefixesLastModified": "2026-03-04"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -472180,7 +472210,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 210161,
-    "metadata": {"handle": "XPERI", "description": "Serac Applications B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2018-09-27", "lastModified": null},
+    "metadata": {"handle": "XPERI", "description": "Aiden Netherlands B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2018-09-27", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -476930,7 +476960,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 211121,
-    "metadata": {"handle": "INDIA", "description": "Tiger Network Limited", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2021-06-23", "lastModified": "2026-04-08"},
+    "metadata": {"handle": "INDIA", "description": "Toko Communications Co. Ltd.", "countryCode": "JP", "country": "Japan", "origin": "authoritative", "category": "business", "networkRole": "stub", "registered": "2021-06-23", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 5, "prefixesAggregated": 4, "largestPrefix": 21, "totalAddresses": 5120}, "ipv6": null, "connectivity": {"providers": 1, "providerAsns": [51847], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-06-10"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -503309,6 +503339,76 @@
     "stats": {"ipv4": {"prefixes": 28, "prefixesAggregated": 28, "largestPrefix": 22, "totalAddresses": 8448}, "ipv6": {"prefixes": 6, "prefixesAggregated": 5, "largestPrefix": 47, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 3, "providerAsns": [19318, 48729, 56630], "customers": 0, "peers": 0, "unclassified": 0, "degree": 3, "reach": 0}, "prefixesLastModified": "2026-10-17"},
     "lastAnnounced": "2026-10-21"
   },{
+    "asn": 218306,
+    "metadata": {"handle": "KCS", "description": "Gate Gourmet KCS Schiphol B.V.", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218307,
+    "metadata": {"handle": "SLOVIX", "description": "Slovix Telecom s.r.o.", "countryCode": "SK", "country": "Slovakia", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218308,
+    "metadata": {"handle": "VELNORA-AS", "description": "Artem Sedykh", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218309,
+    "metadata": {"handle": "CPARTA-CD-AS", "description": "Cparta Cyber Defense AB", "countryCode": "SE", "country": "Sweden", "origin": "authoritative", "category": "government_admin", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218310,
+    "metadata": {"handle": "NETPLATFORMS", "description": "OPENTECH LTD", "countryCode": "CY", "country": "Cyprus", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218311,
+    "metadata": {"handle": "PLATEGA-AS", "description": "White Payments LLC", "countryCode": "KZ", "country": "Kazakhstan", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218312,
+    "metadata": {"handle": "ALIENSERVERS", "description": "Alien Servers Ltd", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "hosting", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218313,
+    "metadata": {"handle": "SKYLINECLOUD-MNT", "description": "Al Skyline Limited Company", "countryCode": "SA", "country": "Saudi Arabia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218314,
+    "metadata": {"handle": "HOME-CONNECT", "description": "CYRIL BELIN", "countryCode": "FR", "country": "France", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218315,
+    "metadata": {"handle": "NESTE", "description": "Neste Oyj", "countryCode": "FI", "country": "Finland", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218316,
+    "metadata": {"handle": "SPACECORE", "description": "SPACECORE SOLUTION LTD", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218317,
+    "metadata": {"handle": "FURUZ-AS", "description": "MDO Furuz LLC", "countryCode": "TJ", "country": "Tajikistan", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218318,
+    "metadata": {"handle": "NL-NOAHENGELENT-20261020", "description": "Noah Engelen trading as Votarix", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 218319,
+    "metadata": {"handle": "ZETCH-MNT", "description": "Zetch Ltd", "countryCode": "GB", "country": "United Kingdom", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-22", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
     "asn": 218320,
     "metadata": {"handle": "NW-LLC", "description": "NORTHERN WIRELESS SERVICES LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
@@ -503360,7 +503460,7 @@
     "lastAnnounced": null
   },{
     "asn": 218330,
-    "metadata": {"handle": "AA-AS", "description": "Artur Asratyan", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "metadata": {"handle": "AA-AS", "description": "Artur Asratyan", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -503400,7 +503500,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 218338,
-    "metadata": {"handle": "GRIMM-AS", "description": "Dominic Grimm", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "metadata": {"handle": "GRIMM-AS", "description": "Dominic Grimm", "countryCode": "DE", "country": "Germany", "origin": "authoritative", "category": "education_research", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -503425,7 +503525,7 @@
     "lastAnnounced": null
   },{
     "asn": 218343,
-    "metadata": {"handle": "TERRA-NETWORKS", "description": "Mikhail Popov", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-20", "lastModified": null},
+    "metadata": {"handle": "TERRANETWORKS-AS", "description": "Mikhail Popov", "countryCode": "RU", "country": "Russia", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-20", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -503555,7 +503655,7 @@
     "lastAnnounced": null
   },{
     "asn": 218369,
-    "metadata": {"handle": "TIEMANNITE", "description": "Kevin Tieman", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-19", "lastModified": null},
+    "metadata": {"handle": "TIEMANNITE", "description": "Kevin Tieman", "countryCode": "NL", "country": "Netherlands", "origin": "authoritative", "category": "hosting", "networkRole": null, "registered": "2026-10-19", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -513467,7 +513567,7 @@
     "asn": 263164,
     "metadata": {"handle": "AVANCAR-INTERNET", "description": "AVANCAR INTERNET", "countryCode": "BR", "country": "Brazil", "origin": "inferred", "category": null, "networkRole": null, "registered": null, "lastModified": "2026-10-22"},
     "stats": {"ipv4": null, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 0, "providerAsns": [], "customers": 0, "peers": 0, "unclassified": 1, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-10-22"},
-    "lastAnnounced": null
+    "lastAnnounced": "2026-10-21"
   },{
     "asn": 263165,
     "metadata": {"handle": "MARVITEL-TELECOM", "description": "MARVITEL TELECOM", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2014-05-21", "lastModified": "2026-03-04"},
@@ -520930,7 +521030,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 264911,
-    "metadata": {"handle": "POWERNET-TELECOM", "description": "POWERNET TELECOM", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2016-04-06", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "POWERNET-TELECOM", "description": "POWER NET FIBRA OPTICA LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "stub", "registered": "2016-04-06", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 7, "prefixesAggregated": 1, "largestPrefix": 22, "totalAddresses": 1024}, "ipv6": {"prefixes": 15, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [269641], "customers": 0, "peers": 20, "unclassified": 0, "degree": 21, "reach": 0}, "prefixesLastModified": "2026-10-06"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -535310,7 +535410,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 268171,
-    "metadata": {"handle": "MEGANET-TECNOLOGIA", "description": "YOU CONSULTORIA E SERVICOS LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-02-04", "lastModified": "2026-09-27"},
+    "metadata": {"handle": "MEGANET-TECNOLOGIA", "description": "NUVYON TELECOMUNICACOES LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-02-04", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 7, "prefixesAggregated": 1, "largestPrefix": 22, "totalAddresses": 1024}, "ipv6": {"prefixes": 7, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [10429], "customers": 1, "peers": 28, "unclassified": 0, "degree": 30, "reach": 1}, "prefixesLastModified": "2026-10-17"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -564235,7 +564335,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 274529,
-    "metadata": {"handle": "MO-SERVICOS-TELECOMUNICACOES", "description": "M.O. SERVICOS DE TELECOMUNICACOES LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "hosting", "networkRole": "stub", "registered": "2025-09-08", "lastModified": "2026-09-25"},
+    "metadata": {"handle": "MO-SERVICOS-TELECOMUNICACOES", "description": "M.O. TELECOM LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "hosting", "networkRole": "stub", "registered": "2025-09-08", "lastModified": "2026-10-23"},
     "stats": {"ipv4": null, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 0, "providerAsns": [], "customers": 0, "peers": 0, "unclassified": 1, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-09-25"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -567009,6 +567109,26 @@
     "stats": null,
     "lastAnnounced": null
   },{
+    "asn": 275086,
+    "metadata": {"handle": "ETERNET", "description": "ETERNET S.A.S.", "countryCode": "AR", "country": "Argentina", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275087,
+    "metadata": {"handle": "PUNTO-INTERCAMBIO-TRAFICO", "description": "PUNTO DE INTERCAMBIO DE TRAFICO IXP AMAZONICO S.A.", "countryCode": "EC", "country": "Ecuador", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275088,
+    "metadata": {"handle": "VEGA-GUSTAVO-ARIEL", "description": "VEGA GUSTAVO ARIEL", "countryCode": "AR", "country": "Argentina", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275089,
+    "metadata": {"handle": "DAVID-EZEQUIEL-AMADOR", "description": "DAVID EZEQUIEL AMADOR (JDC-NETWORKING)", "countryCode": "AR", "country": "Argentina", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
     "asn": 275293,
     "metadata": {"handle": "FR-INFORMATICA", "description": "FR INFORMATICA LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "hosting", "networkRole": "stub", "registered": "2026-09-02", "lastModified": "2026-10-14"},
     "stats": {"ipv4": null, "ipv6": {"prefixes": 1, "prefixesAggregated": 1, "largestPrefix": 32, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 1, "providerAsns": [263327], "customers": 0, "peers": 0, "unclassified": 0, "degree": 1, "reach": 0}, "prefixesLastModified": "2026-10-14"},
@@ -567064,6 +567184,21 @@
     "stats": null,
     "lastAnnounced": null
   },{
+    "asn": 275304,
+    "metadata": {"handle": "DAVI-MARTINS-GOMES", "description": "Davi Martins Gomes", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275305,
+    "metadata": {"handle": "UMBUTECH-INFORMATICA-SERVICOS", "description": "Umbutech Informática e Serviços LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275306,
+    "metadata": {"handle": "BEL-CORPORATION", "description": "BEL CORPORATION LTDA", "countryCode": "BR", "country": "Brazil", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
     "asn": 275549,
     "metadata": {"handle": "JUAN-CARLOS-CARDENAS-CEBALLOS", "description": "JUAN CARLOS CARDENAS CEBALLOS", "countryCode": "MX", "country": "Mexico", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-16", "lastModified": null},
     "stats": null,
@@ -567076,6 +567211,11 @@
   },{
     "asn": 275554,
     "metadata": {"handle": "CESAR-ABED-GOMEZ-ORTEGA", "description": "CESAR ABED GOMEZ ORTEGA", "countryCode": "MX", "country": "Mexico", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-16", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 275555,
+    "metadata": {"handle": "WISPEED-TELECOMUNICACIONES", "description": "WISPEED TELECOMUNICACIONES S DE RL DE CV", "countryCode": "MX", "country": "Mexico", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -578201,6 +578341,16 @@
   },{
     "asn": 329836,
     "metadata": {"handle": "AMRTP", "description": "Autorité Malienne de Regulation des Télécommincations/TIC et Postes (AMRTP)", "countryCode": "ML", "country": "Mali", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 329837,
+    "metadata": {"handle": "NTAU", "description": "NTAU - PRESTAÇÃO DE SERVIÇOS (SU) LDA", "countryCode": "AO", "country": "Angola", "origin": "authoritative", "category": null, "networkRole": null, "registered": null, "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 329838,
+    "metadata": {"handle": "OCTIK", "description": "OCTIK INTERNET SERVICES LTD", "countryCode": "KE", "country": "Kenya", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": null, "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   },{
@@ -598485,7 +598635,7 @@
     "lastAnnounced": "2026-10-21"
   },{
     "asn": 397301,
-    "metadata": {"handle": "THRIVE-BROADBAND", "description": "Thrive Broadband LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-02-07", "lastModified": "2026-03-04"},
+    "metadata": {"handle": "CORE-FIBER", "description": "Thrive Broadband LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": "access_provider", "registered": "2019-02-07", "lastModified": "2026-10-23"},
     "stats": {"ipv4": {"prefixes": 46, "prefixesAggregated": 15, "largestPrefix": 20, "totalAddresses": 13824}, "ipv6": {"prefixes": 6, "prefixesAggregated": 5, "largestPrefix": 34, "totalAddresses": 9223372036854775807}, "connectivity": {"providers": 6, "providerAsns": [174, 1299, 3257, 25899, 52025, 63270], "customers": 1, "peers": 19, "unclassified": 1, "degree": 27, "reach": 2}, "prefixesLastModified": "2026-10-21"},
     "lastAnnounced": "2026-10-21"
   },{
@@ -627326,6 +627476,76 @@
   },{
     "asn": 403112,
     "metadata": {"handle": "ZEROCOPY", "description": "ZeroCopy Inc.", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-19", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403113,
+    "metadata": {"handle": "FLASHNET", "description": "FlashNet", "countryCode": "CA", "country": "Canada", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403114,
+    "metadata": {"handle": "CLEANAS", "description": "CleanVDS.com LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403115,
+    "metadata": {"handle": "AS-2358", "description": "cloudnq LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403116,
+    "metadata": {"handle": "DRAWBRIDGE-ARIN-ASN-01", "description": "Drawbridge Digital LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403117,
+    "metadata": {"handle": "ASLIN-785", "description": "websvm LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403118,
+    "metadata": {"handle": "CITY-OF-ANTIOCH", "description": "City of Antioch", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "government_admin", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403119,
+    "metadata": {"handle": "BEDEIR-NET", "description": "Tarick Bedeir Sole Proprietorship", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403120,
+    "metadata": {"handle": "NIRMALA", "description": "Nirmala Networks LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403121,
+    "metadata": {"handle": "UDRI-01", "description": "University of Dayton Research Institute", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "education_research", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403122,
+    "metadata": {"handle": "CHEVRONFCU-DC1", "description": "Chevron Federal Credit Union", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403123,
+    "metadata": {"handle": "FIBERLABS", "description": "Fiber Labs LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "isp", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403124,
+    "metadata": {"handle": "RUNONCE", "description": "RunOnce LLC", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403125,
+    "metadata": {"handle": "QILAK", "description": "QILAK", "countryCode": "CA", "country": "Canada", "origin": "authoritative", "category": null, "networkRole": null, "registered": "2026-10-21", "lastModified": null},
+    "stats": null,
+    "lastAnnounced": null
+  },{
+    "asn": 403126,
+    "metadata": {"handle": "SAH-AS-01", "description": "Spectrum Automotive Holdings Corp", "countryCode": "US", "country": "United States", "origin": "authoritative", "category": "business", "networkRole": null, "registered": "2026-10-21", "lastModified": null},
     "stats": null,
     "lastAnnounced": null
   }]

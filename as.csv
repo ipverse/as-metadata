@@ -35958,7 +35958,7 @@ asn,handle,description,country-code
 40416,JRTNET,Tough Country Communications Ltd.,CA
 40417,INTERACTIONSCORP,Interactions Corporation,US
 40418,EOSNET,Eos Management Inc.,US
-40419,H2-TECHNOLOGIES-GOV,Austin Hadley Sole Proprietorship,US
+40419,NULLCLOUD,Austin Hadley Sole Proprietorship,US
 40420,SILVERLINESOLUTIONSINC,Silverline Solutions INC.,US
 40421,PC-NETBLOCK,Providence College,US
 40422,PACIOLAN,Paciolan LLC,US
@@ -76547,6 +76547,7 @@ asn,handle,description,country-code
 150361,NTTW-WFL-AS,NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION,JP
 150362,KURIYAMA-NET,Mamireimu Net Work's,JP
 150363,THIN-NET,SoftEther Corporation,JP
+150364,BBIX-CAMPUS,BBIX Inc.,JP
 150365,LL-NET,LifeLink Co. Ltd,JP
 150366,DEMAE-CAN-NW,demae-can co. ltd,JP
 150367,CLOUD-NET,Future Corp.,JP
@@ -101092,7 +101093,7 @@ asn,handle,description,country-code
 218620,OPSEC-AS,Opsec sp. z o.o.,PL
 218621,WCLOUD-HOST-AS,Victor Polenok,RU
 218622,D-SIPOVICS-AS,DMITRIJS SIPOVICS,LV
-218623,LEE-AS,Lee Wanwoo,KR
+218623,TEAMWICKED-AS,Lee Wanwoo,KR
 218624,I-TELECOM-HUNGARY-AS,i-Telecom Hungary Kft,HU
 218625,COMMUNICATION-DYNAMICS,Communication Dynamics Ltd,GB
 218626,WI5IR,Ahmad Bayat,IR
@@ -101150,7 +101151,7 @@ asn,handle,description,country-code
 218678,ANDESIP-AS,ANDESIP S.R.L.,BO
 218679,SERVFAIL,Dominique Liberda,PL
 218680,LITE-SOLUTIONS,Lite Digital LLC,GE
-218681,GKIM-AS,Geonwoo Kim,KR
+218681,XR3AZN-AS,Geonwoo Kim,KR
 218682,ORG-OCL45-AS,OpenWave Connect LLC,US
 218683,ALEMAL,Alexander Malmstroem trading as AleMal Network Services,SE
 218684,QA-HMC,Hamad Medical Corporation,QA
@@ -101535,7 +101536,7 @@ asn,handle,description,country-code
 219064,AKENAI-PRODUCTS-AS,Akenai Products LTD,GB
 219065,CYH-AS,CHENGYUAN HE,JP
 219066,KX712-SAS,KX712 SAS,FR
-219067,CHIARA-AS,Chiara Conti,IT
+219067,EGGYWALL,Chiara Conti,IT
 219068,CORENETWORKTECH,Core Network Technologies Limited,HK
 219069,REUDNETZ,Reudnetz w.V.,DE
 219070,GBEVM,Eximia Networks Limited,GB
